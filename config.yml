@@ -183,96 +183,12 @@ cauldron:
       - This is how it comes out of a Cauldron
     customModelData: 545
 
-  nether_wart_brew:
-      name: Brewed nether wart
-      ingredients: NETHER_WART
-      color: '#780000'
-      cookParticles:
-      - '#780000/4'
-      
-  cactus_flower_brew:
-      name: Brewed cactus flower
-      ingredients: CACTUS_FLOWER
-      color: '#58d68d'
-      cookParticles:
-      - '#58d68d/4'
-      
-  pink_petals_brew:
-      name: Brewed pink petals
-      ingredients: PINK_PETALS
-      color: '#fb9ee3'
-      cookParticles:
-      - '#fb9ee3/4'
-      
-  snowball_brew:
-      name: Brewed snowball
-      ingredients: SNOWBALL
-      color: '#ffffff'
-      cookParticles:
-      - '#ffffff/4'
-      
   bone_meal_brew:
       name: Brewed bone meal
       ingredients: BONE_MEAL
       color: '#B0B0B0'
       cookParticles:
       - '#B0B0B0/4'
-      
-  breeze_rod_brew:
-      name: Brewed breeze rod
-      ingredients: BREEZE_ROD
-      color: '#85c1e9'
-      cookParticles:
-      - '#85c1e9/4'
-      
-  open_eyeblossom_brew:
-      name: Brewed open eyeblossom
-      ingredients: OPEN_EYEBLOSSOM
-      color: '#f1a90f'
-      cookParticles:
-      - '#f1a90f/4'
-      
-  glowstone_brew:
-      name: Brewed glowstone
-      ingredients: GLOWSTONE
-      color: '#FFFF00'
-      cookParticles:
-      - '#FFFF00/4'
-      
-  spore_blossom_brew:
-      name: Brewed spore blossom
-      ingredients: SPORE_BLOSSOM
-      color: '#d7bde2'
-      cookParticles:
-      - '#d7bde2/4'
-      
-  glistering_melon_slice_brew:
-      name: Brewed glistering melon slice
-      ingredients: GLISTERING_MELON_SLICE
-      color: '#f4d03f'
-      cookParticles:
-      - '#f4d03f/4'
-      
-  torchflower_brew:
-      name: Brewed torchflower
-      ingredients: TORCHFLOWER
-      color: '#f39c12'
-      cookParticles:
-      - '#f39c12/4'
-      
-  crimson_roots_brew:
-      name: Brewed crimson roots
-      ingredients: CRIMSON_ROOTS
-      color: '#922b21'
-      cookParticles:
-      - '#922b21/4'
-      
-  brown_mushroom_brew:
-      name: Brewed brown mushroom
-      ingredients: BROWN_MUSHROOM
-      color: '#7f8c8d'
-      cookParticles:
-      - '#7f8c8d/4'
       
   lily_pad_brew:
       name: Brewed lily pad
@@ -281,47 +197,19 @@ cauldron:
       cookParticles:
       - '#196f3d/4'
       
-  hanging_roots_brew:
-      name: Brewed hanging roots
-      ingredients: HANGING_ROOTS
-      color: '#7d6608'
+  torchflower_brew:
+      name: Brewed torchflower
+      ingredients: TORCHFLOWER
+      color: '#f39c12'
       cookParticles:
-      - '#7d6608/4'
+      - '#f39c12/4'
       
-  allium_brew:
-      name: Brewed allium
-      ingredients: ALLIUM
-      color: '#8e44ad'
+  warped_fungus_brew:
+      name: Brewed warped fungus
+      ingredients: WARPED_FUNGUS
+      color: '#117864'
       cookParticles:
-      - '#8e44ad/4'
-      
-  sugar_brew:
-      name: Brewed sugar
-      ingredients: SUGAR
-      color: '#ffffff'
-      cookParticles:
-      - '#ffffff/4'
-      
-  redstone_brew:
-      name: Brewed redstone
-      ingredients: REDSTONE
-      color: '#c0392b'
-      cookParticles:
-      - '#c0392b/4'
-      
-  dried_kelp_brew:
-      name: Brewed dried kelp
-      ingredients: DRIED_KELP
-      color: '#145a32'
-      cookParticles:
-      - '#145a32/4'
-      
-  bamboo_brew:
-      name: Brewed bamboo
-      ingredients: BAMBOO
-      color: '#2ecc71'
-      cookParticles:
-      - '#2ecc71/4'
+      - '#117864/4'
       
   gunpowder_brew:
       name: Brewed gunpowder
@@ -330,47 +218,19 @@ cauldron:
       cookParticles:
       - '#566573/4'
       
-  seagrass_brew:
-      name: Brewed seagrass
-      ingredients: SEAGRASS
-      color: '#1FD4A7'
+  nether_wart_brew:
+      name: Brewed nether wart
+      ingredients: NETHER_WART
+      color: '#780000'
       cookParticles:
-      - '#1FD4A7/4'
+      - '#780000/4'
       
-  sugar_cane_brew:
-      name: Brewed sugar cane
-      ingredients: SUGAR_CANE
-      color: '#a9dfbf'
-      cookParticles:
-      - '#a9dfbf/4'
-      
-  sweet_berries_brew:
-      name: Brewed sweet berries
-      ingredients: SWEET_BERRIES
+  redstone_brew:
+      name: Brewed redstone
+      ingredients: REDSTONE
       color: '#c0392b'
       cookParticles:
       - '#c0392b/4'
-      
-  melon_slice_brew:
-      name: Brewed melon slice
-      ingredients: MELON_SLICE
-      color: '#d20000'
-      cookParticles:
-      - '#d20000/4'
-      
-  glow_berries_brew:
-      name: Brewed glow berries
-      ingredients: GLOW_BERRIES
-      color: '#f1c40f'
-      cookParticles:
-      - '#f1c40f/4'
-      
-  wheat_brew:
-      name: Brewed wheat
-      ingredients: WHEAT
-      color: '#d4ac0d'
-      cookParticles:
-      - '#d4ac0d/4'
       
   blue_orchid_brew:
       name: Brewed blue orchid
@@ -379,47 +239,26 @@ cauldron:
       cookParticles:
       - '#3498db/4'
       
-  potato_brew:
-      name: Brewed potato
-      ingredients: POTATO
-      color: '#cfa64b'
-      cookParticles:
-      - '#cfa64b/4'
-      
-  red_mushroom_brew:
-      name: Brewed red mushroom
-      ingredients: RED_MUSHROOM
+  apple_brew:
+      name: Brewed apple
+      ingredients: APPLE
       color: '#c0392b'
       cookParticles:
       - '#c0392b/4'
       
-  small_dripleaf_brew:
-      name: Brewed small dripleaf
-      ingredients: SMALL_DRIPLEAF
-      color: '#239b56'
+  chorus_fruit_brew:
+      name: Brewed chorus fruit
+      ingredients: CHORUS_FRUIT
+      color: '#9b59b6'
       cookParticles:
-      - '#239b56/4'
+      - '#9b59b6/4'
       
-  ice_brew:
-      name: Brewed ice
-      ingredients: ICE
-      color: '#96D7FF'
+  sunflower_brew:
+      name: Brewed sunflower
+      ingredients: SUNFLOWER
+      color: '#e8fd01'
       cookParticles:
-      - '#96D7FF/4'
-      
-  short_grass_brew:
-      name: Brewed short grass
-      ingredients: SHORT_GRASS
-      color: '#27ae60'
-      cookParticles:
-      - '#27ae60/4'
-      
-  soul_torch_brew:
-      name: Brewed soul torch
-      ingredients: SOUL_TORCH
-      color: '#85FFFF'
-      cookParticles:
-      - '#85FFFF/4'
+      - '#e8fd01/4'
       
   poppy_brew:
       name: Brewed poppy
@@ -428,19 +267,61 @@ cauldron:
       cookParticles:
       - '#FF0000/4'
       
-  cod_brew:
-      name: Brewed cod
-      ingredients: COD
-      color: '#ADB87E'
+  pink_petals_brew:
+      name: Brewed pink petals
+      ingredients: PINK_PETALS
+      color: '#fb9ee3'
       cookParticles:
-      - '#ADB87E/4'
+      - '#fb9ee3/4'
       
-  sunflower_brew:
-      name: Brewed sunflower
-      ingredients: SUNFLOWER
-      color: '#e8fd01'
+  melon_slice_brew:
+      name: Brewed melon slice
+      ingredients: MELON_SLICE
+      color: '#d20000'
       cookParticles:
-      - '#e8fd01/4'
+      - '#d20000/4'
+      
+  open_eyeblossom_brew:
+      name: Brewed open eyeblossom
+      ingredients: OPEN_EYEBLOSSOM
+      color: '#f1a90f'
+      cookParticles:
+      - '#f1a90f/4'
+      
+  brown_mushroom_brew:
+      name: Brewed brown mushroom
+      ingredients: BROWN_MUSHROOM
+      color: '#7f8c8d'
+      cookParticles:
+      - '#7f8c8d/4'
+      
+  potato_brew:
+      name: Brewed potato
+      ingredients: POTATO
+      color: '#cfa64b'
+      cookParticles:
+      - '#cfa64b/4'
+      
+  bone_brew:
+      name: Brewed bone
+      ingredients: BONE
+      color: '#B0B0B0'
+      cookParticles:
+      - '#B0B0B0/4'
+      
+  wheat_brew:
+      name: Brewed wheat
+      ingredients: WHEAT
+      color: '#d4ac0d'
+      cookParticles:
+      - '#d4ac0d/4'
+      
+  soul_torch_brew:
+      name: Brewed soul torch
+      ingredients: SOUL_TORCH
+      color: '#85FFFF'
+      cookParticles:
+      - '#85FFFF/4'
       
   cactus_brew:
       name: Brewed cactus
@@ -456,26 +337,61 @@ cauldron:
       cookParticles:
       - '#922b21/4'
       
+  glistering_melon_slice_brew:
+      name: Brewed glistering melon slice
+      ingredients: GLISTERING_MELON_SLICE
+      color: '#f4d03f'
+      cookParticles:
+      - '#f4d03f/4'
+      
+  crimson_roots_brew:
+      name: Brewed crimson roots
+      ingredients: CRIMSON_ROOTS
+      color: '#922b21'
+      cookParticles:
+      - '#922b21/4'
+      
+  big_dripleaf_brew:
+      name: Brewed big dripleaf
+      ingredients: BIG_DRIPLEAF
+      color: '#196f3d'
+      cookParticles:
+      - '#196f3d/4'
+      
+  blaze_powder_brew:
+      name: Brewed blaze powder
+      ingredients: BLAZE_POWDER
+      color: '#FFC400'
+      cookParticles:
+      - '#FFC400/4'
+      
+  ice_brew:
+      name: Brewed ice
+      ingredients: ICE
+      color: '#96D7FF'
+      cookParticles:
+      - '#96D7FF/4'
+      
+  crimson_fungus_brew:
+      name: Brewed crimson fungus
+      ingredients: CRIMSON_FUNGUS
+      color: '#7b241c'
+      cookParticles:
+      - '#7b241c/4'
+      
+  bamboo_brew:
+      name: Brewed bamboo
+      ingredients: BAMBOO
+      color: '#2ecc71'
+      cookParticles:
+      - '#2ecc71/4'
+      
   spruce_sapling_brew:
       name: Brewed spruce sapling
       ingredients: SPRUCE_SAPLING
       color: '#006f1c'
       cookParticles:
       - '#006f1c/4'
-      
-  wildflowers_brew:
-      name: Brewed wildflowers
-      ingredients: WILDFLOWERS
-      color: '#f7dc6f'
-      cookParticles:
-      - '#f7dc6f/4'
-      
-  chorus_fruit_brew:
-      name: Brewed chorus fruit
-      ingredients: CHORUS_FRUIT
-      color: '#9b59b6'
-      cookParticles:
-      - '#9b59b6/4'
       
   coal_brew:
       name: Brewed coal
@@ -484,19 +400,33 @@ cauldron:
       cookParticles:
       - '#000000/4'
       
-  warped_fungus_brew:
-      name: Brewed warped fungus
-      ingredients: WARPED_FUNGUS
-      color: '#117864'
+  small_dripleaf_brew:
+      name: Brewed small dripleaf
+      ingredients: SMALL_DRIPLEAF
+      color: '#239b56'
       cookParticles:
-      - '#117864/4'
+      - '#239b56/4'
       
-  big_dripleaf_brew:
-      name: Brewed big dripleaf
-      ingredients: BIG_DRIPLEAF
-      color: '#196f3d'
+  blaze_rod_brew:
+      name: Brewed blaze rod
+      ingredients: BLAZE_ROD
+      color: '#e67e22'
       cookParticles:
-      - '#196f3d/4'
+      - '#e67e22/4'
+      
+  snowball_brew:
+      name: Brewed snowball
+      ingredients: SNOWBALL
+      color: '#ffffff'
+      cookParticles:
+      - '#ffffff/4'
+      
+  glow_berries_brew:
+      name: Brewed glow berries
+      ingredients: GLOW_BERRIES
+      color: '#f1c40f'
+      cookParticles:
+      - '#f1c40f/4'
       
   carrot_brew:
       name: Brewed carrot
@@ -512,19 +442,26 @@ cauldron:
       cookParticles:
       - '#74FF39/4'
       
-  salmon_brew:
-      name: Brewed salmon
-      ingredients: SALMON
-      color: '#B5886E'
+  cod_brew:
+      name: Brewed cod
+      ingredients: COD
+      color: '#ADB87E'
       cookParticles:
-      - '#B5886E/4'
+      - '#ADB87E/4'
       
-  lily_of_the_valley_brew:
-      name: Brewed lily of the valley
-      ingredients: LILY_OF_THE_VALLEY
-      color: '#fdfefe'
+  wildflowers_brew:
+      name: Brewed wildflowers
+      ingredients: WILDFLOWERS
+      color: '#f7dc6f'
       cookParticles:
-      - '#fdfefe/4'
+      - '#f7dc6f/4'
+      
+  spore_blossom_brew:
+      name: Brewed spore blossom
+      ingredients: SPORE_BLOSSOM
+      color: '#d7bde2'
+      cookParticles:
+      - '#d7bde2/4'
       
   fern_brew:
       name: Brewed fern
@@ -533,6 +470,104 @@ cauldron:
       cookParticles:
       - '#145a32/4'
       
+  cactus_flower_brew:
+      name: Brewed cactus flower
+      ingredients: CACTUS_FLOWER
+      color: '#58d68d'
+      cookParticles:
+      - '#58d68d/4'
+      
+  salmon_brew:
+      name: Brewed salmon
+      ingredients: SALMON
+      color: '#B5886E'
+      cookParticles:
+      - '#B5886E/4'
+      
+  seagrass_brew:
+      name: Brewed seagrass
+      ingredients: SEAGRASS
+      color: '#1FD4A7'
+      cookParticles:
+      - '#1FD4A7/4'
+      
+  allium_brew:
+      name: Brewed allium
+      ingredients: ALLIUM
+      color: '#8e44ad'
+      cookParticles:
+      - '#8e44ad/4'
+      
+  lily_of_the_valley_brew:
+      name: Brewed lily of the valley
+      ingredients: LILY_OF_THE_VALLEY
+      color: '#fdfefe'
+      cookParticles:
+      - '#fdfefe/4'
+      
+  sugar_cane_brew:
+      name: Brewed sugar cane
+      ingredients: SUGAR_CANE
+      color: '#a9dfbf'
+      cookParticles:
+      - '#a9dfbf/4'
+      
+  red_mushroom_brew:
+      name: Brewed red mushroom
+      ingredients: RED_MUSHROOM
+      color: '#c0392b'
+      cookParticles:
+      - '#c0392b/4'
+      
+  sugar_brew:
+      name: Brewed sugar
+      ingredients: SUGAR
+      color: '#ffffff'
+      cookParticles:
+      - '#ffffff/4'
+      
+  dried_kelp_brew:
+      name: Brewed dried kelp
+      ingredients: DRIED_KELP
+      color: '#145a32'
+      cookParticles:
+      - '#145a32/4'
+      
+  glowstone_brew:
+      name: Brewed glowstone
+      ingredients: GLOWSTONE
+      color: '#FFFF00'
+      cookParticles:
+      - '#FFFF00/4'
+      
+  hanging_roots_brew:
+      name: Brewed hanging roots
+      ingredients: HANGING_ROOTS
+      color: '#7d6608'
+      cookParticles:
+      - '#7d6608/4'
+      
+  short_grass_brew:
+      name: Brewed short grass
+      ingredients: SHORT_GRASS
+      color: '#27ae60'
+      cookParticles:
+      - '#27ae60/4'
+      
+  sweet_berries_brew:
+      name: Brewed sweet berries
+      ingredients: SWEET_BERRIES
+      color: '#c0392b'
+      cookParticles:
+      - '#c0392b/4'
+      
+  breeze_rod_brew:
+      name: Brewed breeze rod
+      ingredients: BREEZE_ROD
+      color: '#85c1e9'
+      cookParticles:
+      - '#85c1e9/4'
+      
   glowstone_dust_brew:
       name: Brewed glowstone dust
       ingredients: GLOWSTONE_DUST
@@ -540,91 +575,7 @@ cauldron:
       cookParticles:
       - '#f7dc6f/4'
       
-  apple_brew:
-      name: Brewed apple
-      ingredients: APPLE
-      color: '#c0392b'
-      cookParticles:
-      - '#c0392b/4'
-      
-  crimson_fungus_brew:
-      name: Brewed crimson fungus
-      ingredients: CRIMSON_FUNGUS
-      color: '#7b241c'
-      cookParticles:
-      - '#7b241c/4'
-      
-  bone_brew:
-      name: Brewed bone
-      ingredients: BONE
-      color: '#B0B0B0'
-      cookParticles:
-      - '#B0B0B0/4'
-      
-  blaze_rod_brew:
-      name: Brewed blaze rod
-      ingredients: BLAZE_ROD
-      color: '#e67e22'
-      cookParticles:
-      - '#e67e22/4'
-      
-  blaze_powder_brew:
-      name: Brewed blaze powder
-      ingredients: BLAZE_POWDER
-      color: '#FFC400'
-      cookParticles:
-      - '#FFC400/4'
-      
 recipes:
-  apple_wine_raf:
-      name: Acidic apple wine/Apple wine/&6Aromatic apple wine
-      ingredients:
-        - APPLE/6
-        - SUGAR/1
-      cookingtime: 7
-      distillruns: 3
-      distilltime: 40
-      wood: 0
-      age: 26
-      color: 'F7A121'
-      difficulty: 7
-      alcohol: 10
-      lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 570/570/570
-      effects:
-        - HUNGER/255/2
-        - SPEED/0-1/0-120
-        - WEAKNESS/0-1/0-30
-
-  moonshine_dk:
-      name: Reckless moonshine/Moonshine/Potent moonshine
-      ingredients:
-        - BEETROOT/6
-        - POTATO/3
-        - TORCHFLOWER/2
-      cookingtime: 4
-      distillruns: 3
-      distilltime: 50
-      age: 0
-      color: 'f1d5a7'
-      difficulty: 6
-      alcohol: 42
-      lore:
-        - +++Strong and sharp, with a fiery kick
-        - +May make you see stars
-      customModelData: 562/562/562
-      effects:
-        - HUNGER/255/2
-        - ABSORPTION/0-2/0-600
-        - STRENGTH/0-2/0-480
-        - REGENERATION/0-2/0-360
-        - MINING_FATIGUE/2-0/600-0
-        - UNLUCK/1-0/1800-0
-        - WEAKNESS/2-0/480-0
-
   berry_wine_dk:
       name: Sour berry wine/Berry Wine/&cSweet berry wine
       ingredients:
@@ -642,7 +593,7 @@ recipes:
         - +++Feel yourself an aristocrat
       customModelData: 566/566/566
       effects:
-        - HUNGER/255/2
+        - HUNGER/200/1
         - ABSORPTION/0-4/0-600
         - SATURATION/0-1/0-600
         - NIGHT_VISION/0-1/0-960
@@ -650,81 +601,31 @@ recipes:
         - POISON/2-0/180-0
         - WEAKNESS/2-0/480-0
 
-  melon_punch_dk:
-      name: Zesty melon punch/Melon Punch/&cTropical melon punch
+  bone_elixir_raf:
+      name: Bitter bone elixir/Bone elixir/&fPowerful bone elixir
       ingredients:
-        - MELON_SLICE/2
-        - SUGAR_CANE/2
-        - GLISTERING_MELON_SLICE/3
-      cookingtime: 5
-      distillruns: 0
-      wood: 3
-      age: 2
-      color: 'ff2c1d'
-      difficulty: 6
-      alcohol: 12
+        - BONE/4
+        - BONE_MEAL/8
+        - POPPY/3
+        - RED_MUSHROOM/3
+      cookingtime: 8
+      distillruns: 2
+      distilltime: 40
+      wood: 0
+      age: 3
+      color: '575757'
+      difficulty: 7
+      alcohol: 30
       lore:
-        - +++Take a sip and relax on a beach
-      customModelData: 563/563/563
+        - +++Designed by NaviRaf
+        - ++Designed by NaviRaf
+        - +Designed by NaviRaf
+      customModelData: 578/578/578
       effects:
-        - HUNGER/255/2
-        - INSTANT_HEALTH/0-3/0-1
-        - SATURATION/0-1/0-600
-        - WATER_BREATHING/0-1/0-600
-        - WITHER/2-0/120-0
-        - BLINDNESS/1-0/240-0
-        - WEAKNESS/2-0/480-0
-
-  seaweed_sake_dk:
-      name: Salty seaweed sake/Seaweed Sake/&bMild seaweed sake
-      ingredients:
-        - DRIED_KELP/3
-        - PINK_PETALS/1
-        - SMALL_DRIPLEAF/2
-      cookingtime: 7
-      distillruns: 0
-      wood: 9
-      age: 2
-      color: '22d5c1'
-      difficulty: 6
-      alcohol: 13
-      lore:
-        - +++Fresh, subtle, with a touch of the ocean breeze
-        - +Tastes like the sea water
-      customModelData: 564/564/564
-      effects:
-        - HUNGER/255/2
-        - DOLPHINS_GRACE/0-1/0-1200
-        - SLOW_FALLING/0-1/0-480
-        - FIRE_RESISTANCE/0-1/0-600
-        - INFESTED/1-0/600-0
-        - BLINDNESS/1-0/240-0
-        - WEAKNESS/2-0/480-0
-
-  root_beer_dk:
-      name: Bitter root beer/Root Beer/&6Sweet root beer
-      ingredients:
-        - FERN/3
-        - HANGING_ROOTS/1
-        - CRIMSON_ROOTS/1
-      cookingtime: 4
-      distillruns: 0
-      wood: 4
-      age: 1
-      color: '563400'
-      difficulty: 5
-      alcohol: 7
-      lore:
-        - +++A crisp, herbal brew with a hint of sweetness
-      customModelData: 556/556/556
-      effects:
-        - HUNGER/255/2
-        - DOLPHINS_GRACE/0-1/0-1200
-        - SPEED/0-2/0-480
-        - REGENERATION/0-2/0-360
-        - DARKNESS/1-0/240-0
-        - NAUSEA/1-0/240-0
-        - BLINDNESS/1-0/240-0
+        - HUNGER/200/1
+        - STRENGTH/0-1/0-60
+        - WEAKNESS/0-1/0-15
+        - SLOWNESS/0-1/0-5
 
   mushroom_ale_raf:
       name: Weird mushroom ale/Mushroom ale/&4Strong mushroom ale
@@ -746,10 +647,415 @@ recipes:
         - +Designed by NaviRaf
       customModelData: 569/569/569
       effects:
-        - HUNGER/255/2
+        - HUNGER/200/1
         - REGENERATION/0-30/0-1
         - NAUSEA/0-1/0-10
         - WEAKNESS/0-2/0-10
+
+  garlic_essense_raf:
+      name: Nasty garlic essense/Garlic essense/&7Clear garlic essense
+      ingredients:
+        - ALLIUM/4
+        - SUGAR_CANE/1
+        - WHEAT/8
+      cookingtime: 3
+      distillruns: 1
+      distilltime: 40
+      wood: 0
+      age: 2
+      color: 'E6E6E6'
+      difficulty: 7
+      alcohol: 30
+      lore:
+        - +++Designed by NaviRaf
+        - ++Designed by NaviRaf
+        - +Designed by NaviRaf
+      customModelData: 576/576/576
+      effects:
+        - HUNGER/200/1
+        - RESISTANCE/0-1/0-60
+        - WEAKNESS/0-1/0-10
+
+  fire_whiskey_dk:
+      name: Scorching fire whiskey/Fire Whiskey/&4Fiery fire whiskey
+      ingredients:
+        - WHEAT/4
+        - BLAZE_ROD/1
+        - CRIMSON_FUNGUS/1
+      cookingtime: 4
+      distillruns: 3
+      distilltime: 50
+      wood: 7
+      age: 2
+      color: 'ff7b00'
+      difficulty: 5
+      alcohol: 40
+      lore:
+        - +++Burns with the intensity of a thousand embers
+        - +Sip too many and you might burn your tongue
+      customModelData: 558/558/558
+      effects:
+        - HUNGER/200/1
+        - CONDUIT_POWER/0-1/0-600
+        - LUCK/0-1/0-1800
+        - WATER_BREATHING/0-1/0-600
+        - WITHER/2-0/120-0
+        - NAUSEA/1-0/240-0
+        - POISON/2-0/180-0
+
+  bamboo_liqueur_dk:
+      name: Watery bamboo liqueur/Bamboo liqueur/&bSweet bamboo liqueur
+      ingredients:
+        - BAMBOO/2
+        - LILY_PAD/3
+        - SHORT_GRASS/3
+        - BIG_DRIPLEAF/1
+      cookingtime: 2
+      distillruns: 0
+      wood: 0
+      age: 3
+      color: '7dddb5'
+      difficulty: 6
+      alcohol: 12
+      lore:
+        - +++Refreshing, like walk in a quiet garden
+        - +It's like eating grass
+      customModelData: 565/565/565
+      effects:
+        - HUNGER/200/1
+        - HASTE/0-2/0-400
+        - LUCK/0-1/0-1800
+        - SLOW_FALLING/0-1/0-480
+        - MINING_FATIGUE/2-0/600-0
+        - UNLUCK/1-0/1800-0
+        - NAUSEA/1-0/240-0
+
+  seaweed_sake_dk:
+      name: Salty seaweed sake/Seaweed Sake/&bMild seaweed sake
+      ingredients:
+        - DRIED_KELP/3
+        - PINK_PETALS/1
+        - SMALL_DRIPLEAF/2
+      cookingtime: 7
+      distillruns: 0
+      wood: 9
+      age: 2
+      color: '22d5c1'
+      difficulty: 6
+      alcohol: 13
+      lore:
+        - +++Fresh, subtle, with a touch of the ocean breeze
+        - +Tastes like the sea water
+      customModelData: 564/564/564
+      effects:
+        - HUNGER/200/1
+        - DOLPHINS_GRACE/0-1/0-1200
+        - SLOW_FALLING/0-1/0-480
+        - FIRE_RESISTANCE/0-1/0-600
+        - INFESTED/1-0/600-0
+        - BLINDNESS/1-0/240-0
+        - WEAKNESS/2-0/480-0
+
+  fish_soup_raf:
+      name: Rotten fish soup/Fish soup/&3Strong fish soup
+      ingredients:
+        - COD/3
+        - SALMON/6
+        - SEAGRASS/10
+        - GLOWSTONE/3
+      cookingtime: 4
+      distillruns: 4
+      distilltime: 40
+      wood: 5
+      age: 3
+      color: '575757'
+      difficulty: 7
+      alcohol: 30
+      lore:
+        - +++Designed by NaviRaf
+        - ++Designed by NaviRaf
+        - +Designed by NaviRaf
+      customModelData: 579/579/579
+      effects:
+        - HUNGER/200/1
+        - WATER_BREATHING/0-1/0-60
+        - WEAKNESS/0-1/0-30
+        - NAUSEA/0-1/0-5
+
+  potato_moonshine_raf:
+      name: Weak potato moonshine/Potato moonshine/&bSlavic potato moonshine
+      ingredients:
+        - POTATO/15
+        - SUGAR/6
+      cookingtime: 7
+      distillruns: 5
+      distilltime: 40
+      age: 0
+      color: 'CDF0FF'
+      difficulty: 7
+      alcohol: 50
+      lore:
+        - +++Designed by NaviRaf
+        - ++Designed by NaviRaf
+        - +Designed by NaviRaf
+      customModelData: 573/573/573
+      effects:
+        - HUNGER/200/1
+        - STRENGTH/0-2/0-30
+        - NAUSEA/0-1/0-5
+
+  cider_dk:
+      name: Tangy cider/Cider/&6Sweet cider
+      ingredients:
+        - APPLE/2
+        - SUGAR/2
+        - WILDFLOWERS/2
+      cookingtime: 4
+      distillruns: 0
+      wood: 2
+      age: 3
+      color: 'f1c40f'
+      difficulty: 6
+      alcohol: 8
+      lore:
+        - +++Crisp, sweet, and refreshingly fruity
+      customModelData: 560/560/560
+      effects:
+        - HUNGER/200/1
+        - INSTANT_HEALTH/0-3/0-1
+        - REGENERATION/0-2/0-360
+        - SPEED/0-2/0-480
+        - WEAVING/1-0/600-0
+        - WEAKNESS/2-0/480-0
+        - LEVITATION/2-0/30-0
+
+  root_beer_dk:
+      name: Bitter root beer/Root Beer/&6Sweet root beer
+      ingredients:
+        - FERN/3
+        - HANGING_ROOTS/1
+        - CRIMSON_ROOTS/1
+      cookingtime: 4
+      distillruns: 0
+      wood: 4
+      age: 1
+      color: '563400'
+      difficulty: 5
+      alcohol: 7
+      lore:
+        - +++A crisp, herbal brew with a hint of sweetness
+      customModelData: 556/556/556
+      effects:
+        - HUNGER/200/1
+        - DOLPHINS_GRACE/0-1/0-1200
+        - SPEED/0-2/0-480
+        - REGENERATION/0-2/0-360
+        - DARKNESS/1-0/240-0
+        - NAUSEA/1-0/240-0
+        - BLINDNESS/1-0/240-0
+
+  gradient_boost_raf:
+      name: Slow gradient boost/Gradient boost/&1Fast gradient boost
+      ingredients:
+        - BLUE_ORCHID/8
+        - SUGAR/16
+        - SLIME_BALL/3
+        - ICE/8
+      cookingtime: 5
+      distillruns: 1
+      distilltime: 40
+      wood: 0
+      age: 4
+      color: '002AFF'
+      difficulty: 7
+      alcohol: 30
+      lore:
+        - +++Designed by NaviRaf
+        - ++Designed by NaviRaf
+        - +Designed by NaviRaf
+      customModelData: 575/575/575
+      effects:
+        - HUNGER/200/1
+        - HASTE/0-1/0-25
+        - STRENGTH/0-2/0-15
+        - SLOWNESS/0-2/0-20
+
+  carrot_juice_raf:
+      name: Spoiled carrot juice/Carrot juice/&6Strong carrot juice
+      ingredients:
+        - CARROT/15
+        - SUGAR/1
+      cookingtime: 2
+      distillruns: 0
+      wood: 9
+      age: 1
+      color: 'FF9500'
+      difficulty: 7
+      alcohol: 30
+      lore:
+        - +++Designed by NaviRaf
+        - ++Designed by NaviRaf
+        - +Designed by NaviRaf
+      customModelData: 577/577/577
+      effects:
+        - HUNGER/200/1
+        - SPEED/0-1/0-60
+        - BLINDNESS/0-1/0-5
+        - HASTE/0-1/0-30
+
+  moonshine_dk:
+      name: Reckless moonshine/Moonshine/Potent moonshine
+      ingredients:
+        - BEETROOT/6
+        - POTATO/3
+        - TORCHFLOWER/2
+      cookingtime: 4
+      distillruns: 3
+      distilltime: 50
+      age: 0
+      color: 'f1d5a7'
+      difficulty: 6
+      alcohol: 42
+      lore:
+        - +++Strong and sharp, with a fiery kick
+        - +May make you see stars
+      customModelData: 562/562/562
+      effects:
+        - HUNGER/200/1
+        - ABSORPTION/0-2/0-600
+        - STRENGTH/0-2/0-480
+        - REGENERATION/0-2/0-360
+        - MINING_FATIGUE/2-0/600-0
+        - UNLUCK/1-0/1800-0
+        - WEAKNESS/2-0/480-0
+
+  chorus_essense_dk:
+      name: Sickening chorus essense/Chorus Essense/&5Mystical chorus essense
+      ingredients:
+        - CHORUS_FRUIT/3
+        - ALLIUM/2
+        - WARPED_FUNGUS/1
+      cookingtime: 6
+      distillruns: 10
+      distilltime: 10
+      wood: 8
+      age: 1
+      color: '2e0a56'
+      difficulty: 6
+      alcohol: 16
+      lore:
+        - +++It's like looking into portal
+        - +Your end is close
+      customModelData: 567/567/567
+      effects:
+        - HUNGER/200/1
+        - DOLPHINS_GRACE/0-1/0-1200
+        - SLOW_FALLING/0-1/0-480
+        - SATURATION/0-1/0-600
+        - DARKNESS/1-0/240-0
+        - NAUSEA/1-0/240-0
+        - INSTANT_DAMAGE/2-0/1-0
+
+  melon_punch_dk:
+      name: Zesty melon punch/Melon Punch/&cTropical melon punch
+      ingredients:
+        - MELON_SLICE/2
+        - SUGAR_CANE/2
+        - GLISTERING_MELON_SLICE/3
+      cookingtime: 5
+      distillruns: 0
+      wood: 3
+      age: 2
+      color: 'ff2c1d'
+      difficulty: 6
+      alcohol: 12
+      lore:
+        - +++Take a sip and relax on a beach
+      customModelData: 563/563/563
+      effects:
+        - HUNGER/200/1
+        - INSTANT_HEALTH/0-3/0-1
+        - SATURATION/0-1/0-600
+        - WATER_BREATHING/0-1/0-600
+        - WITHER/2-0/120-0
+        - BLINDNESS/1-0/240-0
+        - WEAKNESS/2-0/480-0
+
+  gin_dk:
+      name: Watery gin/Gin/&bChilling gin
+      ingredients:
+        - SPRUCE_SAPLING/4
+        - SNOWBALL/1
+        - BREEZE_ROD/1
+      cookingtime: 4
+      distillruns: 1
+      distilltime: 50
+      wood: 4
+      age: 4
+      color: 'aed6f1'
+      difficulty: 6
+      alcohol: 38
+      lore:
+        - +++A cold drink for a warm soul
+        - +Beware — it bites like a winter frost
+      customModelData: 561/561/561
+      effects:
+        - HUNGER/200/1
+        - ABSORPTION/0-2/0-600
+        - STRENGTH/0-2/0-480
+        - NIGHT_VISION/0-1/0-960
+        - MINING_FATIGUE/2-0/600-0
+        - SLOWNESS/4-0/480-0
+        - LEVITATION/2-0/30-0
+
+  mushroom_brew_dk:
+      name: Musty mushroom brew/Mushroom Brew/&9Earthy mushroom brew
+      ingredients:
+        - BROWN_MUSHROOM/1
+        - RED_MUSHROOM/3
+        - WARPED_FUNGUS/1
+      cookingtime: 2
+      distillruns: 1
+      distilltime: 45
+      wood: 0
+      age: 3
+      color: '471802'
+      difficulty: 5
+      alcohol: 8
+      lore:
+        - +++Open your eyes and embrace the weirdness
+        - +Makes you question reality for a moment
+      customModelData: 559/559/559
+      effects:
+        - HUNGER/200/1
+        - INVISIBILITY/0-1/0-960
+        - NIGHT_VISION/0-1/0-960
+        - RESISTANCE/0-2/0-480
+        - WITHER/2-0/120-0
+        - POISON/2-0/180-0
+
+  apple_wine_raf:
+      name: Acidic apple wine/Apple wine/&6Aromatic apple wine
+      ingredients:
+        - APPLE/6
+        - SUGAR/1
+      cookingtime: 7
+      distillruns: 3
+      distilltime: 40
+      wood: 0
+      age: 26
+      color: 'F7A121'
+      difficulty: 7
+      alcohol: 10
+      lore:
+        - +++Designed by NaviRaf
+        - ++Designed by NaviRaf
+        - +Designed by NaviRaf
+      customModelData: 570/570/570
+      effects:
+        - HUNGER/200/1
+        - SPEED/0-1/0-120
+        - WEAKNESS/0-1/0-30
 
   forest_wine_raf:
       name: Grassy forest wine/Forest wine/&5Flowery forest wine
@@ -771,31 +1077,36 @@ recipes:
         - +Designed by NaviRaf
       customModelData: 580/580/580
       effects:
-        - HUNGER/255/2
+        - HUNGER/200/1
         - SPEED/0-1/0-60
         - ABSORPTION/0-1/0-30
 
-  potato_moonshine_raf:
-      name: Weak potato moonshine/Potato moonshine/&bSlavic potato moonshine
+  tequila_dk:
+      name: Sharp tequila/Tequila/&6Desert spirit tequila
       ingredients:
-        - POTATO/15
-        - SUGAR/6
+        - CACTUS_FLOWER/1
+        - CACTUS/2
+        - GUNPOWDER/4
       cookingtime: 7
-      distillruns: 5
-      distilltime: 40
-      age: 0
-      color: 'CDF0FF'
-      difficulty: 7
-      alcohol: 50
+      distillruns: 2
+      distilltime: 50
+      wood: 5
+      age: 3
+      color: 'fff492'
+      difficulty: 5
+      alcohol: 40
       lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 573/573/573
+        - +++Feel the desert sun
+        - +May leave a burning trail
+      customModelData: 568/568/568
       effects:
-        - HUNGER/255/2
-        - STRENGTH/0-2/0-30
-        - NAUSEA/0-1/0-5
+        - HUNGER/200/1
+        - INSTANT_HEALTH/0-3/0-1
+        - SATURATION/0-1/0-600
+        - RESISTANCE/0-2/0-480
+        - INFESTED/1-0/600-0
+        - WEAKNESS/2-0/480-0
+        - NAUSEA/1-0/240-0
 
   glowing_berries_wine_dk:
       name: Blinding glowing berries wine/Glowing Berries Wine/&6Mild glowing berries wine
@@ -816,7 +1127,7 @@ recipes:
         - +Why is it glowing?
       customModelData: 557/557/557
       effects:
-        - HUNGER/255/2
+        - HUNGER/200/1
         - INVISIBILITY/0-1/0-960
         - NIGHT_VISION/0-1/0-960
         - GLOWING/0-1/0-600
@@ -844,108 +1155,10 @@ recipes:
         - +Designed by NaviRaf
       customModelData: 574/574/574
       effects:
-        - HUNGER/255/2
+        - HUNGER/200/1
         - NIGHT_VISION/0-2/0-120
         - SPEED/0-1/0-60
         - DARKNESS/0-1/0-5
-
-  fish_soup_raf:
-      name: Rotten fish soup/Fish soup/&3Strong fish soup
-      ingredients:
-        - COD/3
-        - SALMON/6
-        - SEAGRASS/10
-        - GLOWSTONE/3
-      cookingtime: 4
-      distillruns: 4
-      distilltime: 40
-      wood: 5
-      age: 3
-      color: '575757'
-      difficulty: 7
-      alcohol: 30
-      lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 579/579/579
-      effects:
-        - HUNGER/255/2
-        - WATER_BREATHING/0-1/0-60
-        - WEAKNESS/0-1/0-30
-        - NAUSEA/0-1/0-5
-
-  carrot_juice_raf:
-      name: Spoiled carrot juice/Carrot juice/&6Strong carrot juice
-      ingredients:
-        - CARROT/15
-        - SUGAR/1
-      cookingtime: 2
-      distillruns: 0
-      wood: 9
-      age: 1
-      color: 'FF9500'
-      difficulty: 7
-      alcohol: 30
-      lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 577/577/577
-      effects:
-        - HUNGER/255/2
-        - SPEED/0-1/0-60
-        - BLINDNESS/0-1/0-5
-        - HASTE/0-1/0-30
-
-  garlic_essense_raf:
-      name: Nasty garlic essense/Garlic essense/&7Clear garlic essense
-      ingredients:
-        - ALLIUM/4
-        - SUGAR_CANE/1
-        - WHEAT/8
-      cookingtime: 3
-      distillruns: 1
-      distilltime: 40
-      wood: 0
-      age: 2
-      color: 'E6E6E6'
-      difficulty: 7
-      alcohol: 30
-      lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 576/576/576
-      effects:
-        - HUNGER/255/2
-        - RESISTANCE/0-1/0-60
-        - WEAKNESS/0-1/0-10
-
-  cider_dk:
-      name: Tangy cider/Cider/&6Sweet cider
-      ingredients:
-        - APPLE/2
-        - SUGAR/2
-        - WILDFLOWERS/2
-      cookingtime: 4
-      distillruns: 0
-      wood: 2
-      age: 3
-      color: 'f1c40f'
-      difficulty: 6
-      alcohol: 8
-      lore:
-        - +++Crisp, sweet, and refreshingly fruity
-      customModelData: 560/560/560
-      effects:
-        - HUNGER/255/2
-        - INSTANT_HEALTH/0-3/0-1
-        - REGENERATION/0-2/0-360
-        - SPEED/0-2/0-480
-        - WEAVING/1-0/600-0
-        - WEAKNESS/2-0/480-0
-        - LEVITATION/2-0/30-0
 
   ice_brandy_raf:
       name: Chilling ice brandy/Ice brandy/&bFine ice brandy
@@ -967,37 +1180,10 @@ recipes:
         - +Designed by NaviRaf
       customModelData: 572/572/572
       effects:
-        - HUNGER/255/2
+        - HUNGER/200/1
         - SPEED/0-2/0-30
         - HASTE/0-1/0-25
         - SLOWNESS/0-1/0-10
-
-  gin_dk:
-      name: Watery gin/Gin/&bChilling gin
-      ingredients:
-        - SPRUCE_SAPLING/4
-        - SNOWBALL/1
-        - BREEZE_ROD/1
-      cookingtime: 4
-      distillruns: 1
-      distilltime: 50
-      wood: 4
-      age: 4
-      color: 'aed6f1'
-      difficulty: 6
-      alcohol: 38
-      lore:
-        - +++A cold drink for a warm soul
-        - +Beware — it bites like a winter frost
-      customModelData: 561/561/561
-      effects:
-        - HUNGER/255/2
-        - ABSORPTION/0-2/0-600
-        - STRENGTH/0-2/0-480
-        - NIGHT_VISION/0-1/0-960
-        - MINING_FATIGUE/2-0/600-0
-        - SLOWNESS/4-0/480-0
-        - LEVITATION/2-0/30-0
 
   hell_moonshine_raf:
       name: Burning hell moonshine/Hell moonshine/&cFlaming hell moonshine
@@ -1018,194 +1204,8 @@ recipes:
         - +Designed by NaviRaf
       customModelData: 571/571/571
       effects:
-        - HUNGER/255/2
+        - HUNGER/200/1
         - STRENGTH/0-2/0-180
-
-  bamboo_liqueur_dk:
-      name: Watery bamboo liqueur/Bamboo liqueur/&bSweet bamboo liqueur
-      ingredients:
-        - BAMBOO/2
-        - LILY_PAD/3
-        - SHORT_GRASS/3
-        - BIG_DRIPLEAF/1
-      cookingtime: 2
-      distillruns: 0
-      wood: 0
-      age: 3
-      color: '7dddb5'
-      difficulty: 6
-      alcohol: 12
-      lore:
-        - +++Refreshing, like walk in a quiet garden
-        - +It's like eating grass
-      customModelData: 565/565/565
-      effects:
-        - HUNGER/255/2
-        - HASTE/0-2/0-400
-        - LUCK/0-1/0-1800
-        - SLOW_FALLING/0-1/0-480
-        - MINING_FATIGUE/2-0/600-0
-        - UNLUCK/1-0/1800-0
-        - NAUSEA/1-0/240-0
-
-  gradient_boost_raf:
-      name: Slow gradient boost/Gradient boost/&1Fast gradient boost
-      ingredients:
-        - BLUE_ORCHID/8
-        - SUGAR/16
-        - SLIME_BALL/3
-        - ICE/8
-      cookingtime: 5
-      distillruns: 1
-      distilltime: 40
-      wood: 0
-      age: 4
-      color: '002AFF'
-      difficulty: 7
-      alcohol: 30
-      lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 575/575/575
-      effects:
-        - HUNGER/255/2
-        - HASTE/0-1/0-25
-        - STRENGTH/0-2/0-15
-        - SLOWNESS/0-2/0-20
-
-  mushroom_brew_dk:
-      name: Musty mushroom brew/Mushroom Brew/&9Earthy mushroom brew
-      ingredients:
-        - BROWN_MUSHROOM/1
-        - RED_MUSHROOM/3
-        - WARPED_FUNGUS/1
-      cookingtime: 2
-      distillruns: 1
-      distilltime: 45
-      wood: 0
-      age: 3
-      color: '471802'
-      difficulty: 5
-      alcohol: 8
-      lore:
-        - +++Open your eyes and embrace the weirdness
-        - +Makes you question reality for a moment
-      customModelData: 559/559/559
-      effects:
-        - HUNGER/255/2
-        - INVISIBILITY/0-1/0-960
-        - NIGHT_VISION/0-1/0-960
-        - RESISTANCE/0-2/0-480
-        - WITHER/2-0/120-0
-        - POISON/2-0/180-0
-
-  fire_whiskey_dk:
-      name: Scorching fire whiskey/Fire Whiskey/&4Fiery fire whiskey
-      ingredients:
-        - WHEAT/4
-        - BLAZE_ROD/1
-        - CRIMSON_FUNGUS/1
-      cookingtime: 4
-      distillruns: 3
-      distilltime: 50
-      wood: 7
-      age: 2
-      color: 'ff7b00'
-      difficulty: 5
-      alcohol: 40
-      lore:
-        - +++Burns with the intensity of a thousand embers
-        - +Sip too many and you might burn your tongue
-      customModelData: 558/558/558
-      effects:
-        - HUNGER/255/2
-        - CONDUIT_POWER/0-1/0-600
-        - LUCK/0-1/0-1800
-        - WATER_BREATHING/0-1/0-600
-        - WITHER/2-0/120-0
-        - NAUSEA/1-0/240-0
-        - POISON/2-0/180-0
-
-  chorus_essense_dk:
-      name: Sickening chorus essense/Chorus Essense/&5Mystical chorus essense
-      ingredients:
-        - CHORUS_FRUIT/3
-        - ALLIUM/2
-        - WARPED_FUNGUS/1
-      cookingtime: 6
-      distillruns: 10
-      distilltime: 10
-      wood: 8
-      age: 1
-      color: '2e0a56'
-      difficulty: 6
-      alcohol: 16
-      lore:
-        - +++It's like looking into portal
-        - +Your end is close
-      customModelData: 567/567/567
-      effects:
-        - HUNGER/255/2
-        - DOLPHINS_GRACE/0-1/0-1200
-        - SLOW_FALLING/0-1/0-480
-        - SATURATION/0-1/0-600
-        - DARKNESS/1-0/240-0
-        - NAUSEA/1-0/240-0
-        - INSTANT_DAMAGE/2-0/1-0
-
-  bone_elixir_raf:
-      name: Bitter bone elixir/Bone elixir/&fPowerful bone elixir
-      ingredients:
-        - BONE/4
-        - BONE_MEAL/8
-        - POPPY/3
-        - RED_MUSHROOM/3
-      cookingtime: 8
-      distillruns: 2
-      distilltime: 40
-      wood: 0
-      age: 3
-      color: '575757'
-      difficulty: 7
-      alcohol: 30
-      lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 578/578/578
-      effects:
-        - HUNGER/255/2
-        - STRENGTH/0-1/0-60
-        - WEAKNESS/0-1/0-15
-        - SLOWNESS/0-1/0-5
-
-  tequila_dk:
-      name: Sharp tequila/Tequila/&6Desert spirit tequila
-      ingredients:
-        - CACTUS_FLOWER/1
-        - CACTUS/2
-        - GUNPOWDER/4
-      cookingtime: 7
-      distillruns: 2
-      distilltime: 50
-      wood: 5
-      age: 3
-      color: 'fff492'
-      difficulty: 5
-      alcohol: 40
-      lore:
-        - +++Feel the desert sun
-        - +May leave a burning trail
-      customModelData: 568/568/568
-      effects:
-        - HUNGER/255/2
-        - INSTANT_HEALTH/0-3/0-1
-        - SATURATION/0-1/0-600
-        - RESISTANCE/0-2/0-480
-        - INFESTED/1-0/600-0
-        - WEAKNESS/2-0/480-0
-        - NAUSEA/1-0/240-0
 
 
 # -- Plugin Compatibility --
