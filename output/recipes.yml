@@ -1,32 +1,6 @@
 recipes:
-  dandelion_wine_dk:
-      name: Disgusting dandelion wine/Dandelion wine/&#f1ff5cBittersweet dandelion wine
-      ingredients:
-        - DANDELION/4
-        - WILDFLOWERS/4
-        - LILY_OF_THE_VALLEY/1
-      cookingtime: 4
-      distillruns: 0
-      wood: 1
-      age: 5
-      color: 'f1ff5c'
-      difficulty: 7
-      alcohol: 10
-      lore:
-        - +++You feel nostalgic as you smell it
-        - +Who brews flowers?
-      customModelData: 570/570/570
-      effects:
-        - HUNGER/200/1
-        - DOLPHINS_GRACE/0-1/0-300
-        - SLOW_FALLING/0-1/0-480
-        - INSTANT_HEALTH/0-3/0-1
-        - MINING_FATIGUE/2-0/300-0
-        - LEVITATION/2-0/30-0
-        - WEAKNESS/2-0/240-0
-
   tequila_dk:
-      name: Sharp tequila/Tequila/&#fff492Desert spirit tequila
+      name: Sharp tequila/Tequila/&#fff6a7Desert spirit tequila
       ingredients:
         - CACTUS_FLOWER/1
         - CACTUS/4
@@ -40,8 +14,8 @@ recipes:
       difficulty: 7
       alcohol: 40
       lore:
-        - +++Feel the desert sun
-        - +May leave a burning trail
+        - +++&#fff8bdFeel the desert sun
+        - +&#fff8bdMay leave a burning trail
       customModelData: 568/568/568
       effects:
         - HUNGER/200/1
@@ -52,203 +26,8 @@ recipes:
         - WEAKNESS/2-0/240-0
         - BLINDNESS/1-0/300-0
 
-  mushroom_brew_dk:
-      name: Musty mushroom brew/Mushroom Brew/&#471802Earthy mushroom brew
-      ingredients:
-        - BROWN_MUSHROOM/1
-        - RED_MUSHROOM/3
-        - WARPED_FUNGUS/1
-      cookingtime: 2
-      distillruns: 1
-      distilltime: 45
-      wood: 9
-      age: 3
-      color: '471802'
-      difficulty: 7
-      alcohol: 8
-      lore:
-        - +++Open your eyes and embrace the weirdness
-        - +Makes you question reality for a moment
-      customModelData: 559/559/559
-      effects:
-        - HUNGER/200/1
-        - INVISIBILITY/0-1/0-480
-        - NIGHT_VISION/0-1/0-600
-        - RESISTANCE/0-2/0-480
-        - WITHER/2-0/90-0
-        - POISON/2-0/90-0
-
-  melon_punch_dk:
-      name: Zesty melon punch/Melon Punch/&#ff2c1dTropical melon punch
-      ingredients:
-        - MELON_SLICE/2
-        - SUGAR_CANE/2
-        - GLISTERING_MELON_SLICE/3
-      cookingtime: 5
-      distillruns: 0
-      wood: 3
-      age: 2
-      color: 'ff2c1d'
-      difficulty: 7
-      alcohol: 12
-      lore:
-        - +++Take a sip and relax on a beach
-      customModelData: 563/563/563
-      effects:
-        - HUNGER/200/1
-        - HEALTH_BOOST/0-1/0-300
-        - INSTANT_HEALTH/0-3/0-1
-        - WATER_BREATHING/0-1/0-600
-        - WITHER/2-0/90-0
-        - NAUSEA/2-0/300-0
-        - WEAKNESS/2-0/240-0
-
-  chorus_essense_dk:
-      name: Sickening chorus essense/Chorus Essense/&#2e0a56Mystical chorus essense
-      ingredients:
-        - CHORUS_FRUIT/4
-        - ALLIUM/1
-        - WARPED_FUNGUS/2
-      cookingtime: 2
-      distillruns: 11
-      distilltime: 10
-      wood: 8
-      age: 1
-      color: '2e0a56'
-      difficulty: 7
-      alcohol: 16
-      lore:
-        - +++It's like looking into portal
-        - +Your end is close
-      customModelData: 567/567/567
-      effects:
-        - HUNGER/200/1
-        - DOLPHINS_GRACE/0-1/0-300
-        - SLOW_FALLING/0-1/0-480
-        - REGENERATION/0-2/0-90
-        - DARKNESS/1-0/300-0
-        - BLINDNESS/1-0/300-0
-        - INSTANT_DAMAGE/2-0/1-0
-
-  carrot_juice_raf:
-      name: Spoiled carrot juice/Carrot juice/&#FF9500Strong carrot juice
-      ingredients:
-        - CARROT/17
-        - SUGAR/3
-      cookingtime: 2
-      distillruns: 0
-      wood: 9
-      age: 1
-      color: 'FF9500'
-      difficulty: 7
-      alcohol: 30
-      lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 579/579/579
-      effects:
-        - HUNGER/200/1
-        - SPEED/0-1/0-60
-        - BLINDNESS/0-1/0-5
-        - HASTE/0-1/0-30
-
-  potato_moonshine_raf:
-      name: Weak potato moonshine/Potato moonshine/&#CDF0FFSlavic potato moonshine
-      ingredients:
-        - POTATO/15
-        - SUGAR/4
-      cookingtime: 7
-      distillruns: 5
-      distilltime: 40
-      age: 0
-      color: 'CDF0FF'
-      difficulty: 7
-      alcohol: 50
-      lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 575/575/575
-      effects:
-        - HUNGER/200/1
-        - STRENGTH/0-2/0-30
-        - NAUSEA/0-1/0-5
-
-  hell_moonshine_raf:
-      name: Burning hell moonshine/Hell moonshine/&#FF3300Flaming hell moonshine
-      ingredients:
-        - BLAZE_POWDER/3
-        - NETHER_WART/8
-        - SUGAR/6
-      cookingtime: 11
-      distillruns: 4
-      distilltime: 40
-      age: 0
-      color: 'FF3300'
-      difficulty: 7
-      alcohol: 30
-      lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 573/573/573
-      effects:
-        - HUNGER/200/1
-        - STRENGTH/0-2/0-180
-
-  fire_whiskey_dk:
-      name: Scorching fire whiskey/Fire Whiskey/&#ff7b00Fiery fire whiskey
-      ingredients:
-        - WHEAT/4
-        - BLAZE_ROD/1
-        - CRIMSON_FUNGUS/1
-      cookingtime: 4
-      distillruns: 3
-      distilltime: 50
-      wood: 12
-      age: 2
-      color: 'ff7b00'
-      difficulty: 7
-      alcohol: 40
-      lore:
-        - +++Burns with the intensity of a thousand embers
-        - +Sip too many and you might burn your tongue
-      customModelData: 558/558/558
-      effects:
-        - HUNGER/200/1
-        - HASTE/0-2/0-300
-        - LUCK/0-1/0-400
-        - WATER_BREATHING/0-1/0-600
-        - WITHER/2-0/90-0
-        - NAUSEA/2-0/300-0
-        - POISON/2-0/90-0
-
-  apple_wine_raf:
-      name: Acidic apple wine/Apple wine/&#F7A121Aromatic apple wine
-      ingredients:
-        - APPLE/3
-        - SUGAR/2
-      cookingtime: 7
-      distillruns: 3
-      distilltime: 40
-      wood: 0
-      age: 27
-      color: 'F7A121'
-      difficulty: 7
-      alcohol: 10
-      lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 572/572/572
-      effects:
-        - HUNGER/200/1
-        - SPEED/0-1/0-120
-        - WEAKNESS/0-1/0-30
-
   bone_elixir_raf:
-      name: Bitter bone elixir/Bone elixir/&#575757Powerful bone elixir
+      name: Bitter bone elixir/Bone elixir/&#787878Powerful bone elixir
       ingredients:
         - BONE/6
         - BONE_MEAL/11
@@ -263,9 +42,9 @@ recipes:
       difficulty: 7
       alcohol: 30
       lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
+        - +++&#9a9a9aDesigned by NaviRaf
+        - ++&#9a9a9aDesigned by NaviRaf
+        - +&#9a9a9aDesigned by NaviRaf
       customModelData: 580/580/580
       effects:
         - HUNGER/200/1
@@ -273,239 +52,8 @@ recipes:
         - WEAKNESS/0-1/0-15
         - SLOWNESS/0-1/0-5
 
-  moonshine_dk:
-      name: Reckless moonshine/Moonshine/&#f1d5a7Potent moonshine
-      ingredients:
-        - BEETROOT/6
-        - POTATO/3
-        - TORCHFLOWER/2
-      cookingtime: 4
-      distillruns: 3
-      distilltime: 50
-      age: 0
-      color: 'f1d5a7'
-      difficulty: 7
-      alcohol: 42
-      lore:
-        - +++Strong and sharp, with a fiery kick
-        - +May make you see stars
-      customModelData: 562/562/562
-      effects:
-        - HUNGER/200/1
-        - ABSORPTION/0-1/0-300
-        - STRENGTH/0-2/0-480
-        - REGENERATION/0-2/0-90
-        - MINING_FATIGUE/2-0/300-0
-        - UNLUCK/1-0/400-0
-        - WEAKNESS/2-0/240-0
-
-  glowing_berries_wine_dk:
-      name: Blinding glowing berries wine/Glowing Berries Wine/&#e0d018Mild glowing berries wine
-      ingredients:
-        - GLOW_BERRIES/2
-        - GLOWSTONE_DUST/1
-        - OPEN_EYEBLOSSOM/1
-      cookingtime: 4
-      distillruns: 1
-      distilltime: 50
-      wood: 6
-      age: 2
-      color: 'e0d018'
-      difficulty: 7
-      alcohol: 12
-      lore:
-        - +++Radiates a soft glow and tastes magically sweet
-        - +Why is it glowing?
-      customModelData: 557/557/557
-      effects:
-        - HUNGER/200/1
-        - INVISIBILITY/0-1/0-480
-        - NIGHT_VISION/0-1/0-600
-        - GLOWING/0-1/0-600
-        - DARKNESS/1-0/300-0
-        - WEAKNESS/2-0/240-0
-        - BLINDNESS/1-0/300-0
-
-  mushroom_ale_raf:
-      name: Weird mushroom ale/Mushroom ale/&#563400Strong mushroom ale
-      ingredients:
-        - SUGAR/1
-        - BROWN_MUSHROOM/1
-        - RED_MUSHROOM/1
-      cookingtime: 4
-      distillruns: 4
-      distilltime: 40
-      wood: 2
-      age: 1
-      color: '563400'
-      difficulty: 7
-      alcohol: 10
-      lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 571/571/571
-      effects:
-        - HUNGER/200/1
-        - REGENERATION/0-30/0-1
-        - NAUSEA/0-1/0-10
-        - WEAKNESS/0-2/0-10
-
-  garlic_essense_raf:
-      name: Nasty garlic essense/Garlic essense/&#E6E6E6Clear garlic essense
-      ingredients:
-        - ALLIUM/6
-        - SUGAR_CANE/2
-        - WHEAT/6
-      cookingtime: 3
-      distillruns: 2
-      distilltime: 40
-      wood: 0
-      age: 3
-      color: 'E6E6E6'
-      difficulty: 7
-      alcohol: 30
-      lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 578/578/578
-      effects:
-        - HUNGER/200/1
-        - RESISTANCE/0-1/0-60
-        - WEAKNESS/0-1/0-10
-
-  crimson_juice_dk:
-      name: Enraging crimson juice/Crimson Juice/&#b60024Demonic crimson juice
-      ingredients:
-        - CRIMSON_FUNGUS/1
-        - CARROT/4
-        - WITHER_ROSE/1
-      cookingtime: 2
-      distillruns: 0
-      wood: 7
-      age: 3
-      color: 'b60024'
-      difficulty: 7
-      alcohol: 20
-      lore:
-        - +++You feel the power of captured souls
-        - +Is it blood?!
-      customModelData: 569/569/569
-      effects:
-        - HUNGER/200/1
-        - ABSORPTION/0-1/0-300
-        - STRENGTH/0-2/0-480
-        - NIGHT_VISION/0-1/0-600
-        - WITHER/2-0/90-0
-        - BLINDNESS/1-0/300-0
-        - INSTANT_DAMAGE/2-0/1-0
-
-  seaweed_sake_dk:
-      name: Salty seaweed sake/Seaweed Sake/&#22d5c1Mild seaweed sake
-      ingredients:
-        - DRIED_KELP/3
-        - PINK_PETALS/3
-        - SMALL_DRIPLEAF/2
-      cookingtime: 7
-      distillruns: 0
-      wood: 11
-      age: 2
-      color: '22d5c1'
-      difficulty: 7
-      alcohol: 13
-      lore:
-        - +++Fresh, subtle, with a touch of the ocean breeze
-        - +Tastes like the sea water
-      customModelData: 564/564/564
-      effects:
-        - HUNGER/200/1
-        - DOLPHINS_GRACE/0-1/0-300
-        - SLOW_FALLING/0-1/0-480
-        - FIRE_RESISTANCE/0-1/0-600
-        - INFESTED/1-0/300-0
-        - BLINDNESS/1-0/300-0
-        - WEAKNESS/2-0/240-0
-
-  ice_brandy_raf:
-      name: Chilling ice brandy/Ice brandy/&#15B9FFFine ice brandy
-      ingredients:
-        - SNOWBALL/16
-        - SUNFLOWER/1
-        - SUGAR/3
-      cookingtime: 11
-      distillruns: 5
-      distilltime: 40
-      wood: 6
-      age: 19
-      color: '15B9FF'
-      difficulty: 7
-      alcohol: 30
-      lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 574/574/574
-      effects:
-        - HUNGER/200/1
-        - SPEED/0-2/0-30
-        - HASTE/0-1/0-25
-        - SLOWNESS/0-1/0-10
-
-  gin_dk:
-      name: Watery gin/Gin/&#aed6f1Chilling gin
-      ingredients:
-        - SPRUCE_SAPLING/4
-        - SNOWBALL/1
-        - BREEZE_ROD/1
-      cookingtime: 4
-      distillruns: 1
-      distilltime: 50
-      wood: 4
-      age: 4
-      color: 'aed6f1'
-      difficulty: 7
-      alcohol: 38
-      lore:
-        - +++A cold drink for a warm soul
-        - +Beware — it bites like a winter frost
-      customModelData: 561/561/561
-      effects:
-        - HUNGER/200/1
-        - ABSORPTION/0-1/0-300
-        - STRENGTH/0-2/0-480
-        - NIGHT_VISION/0-1/0-600
-        - MINING_FATIGUE/2-0/300-0
-        - SLOWNESS/2-0/240-0
-        - LEVITATION/2-0/30-0
-
-  miner_potion_raf:
-      name: Dark miner potion/Miner potion/&#EEFF00Light miner potion
-      ingredients:
-        - SOUL_TORCH/12
-        - COAL/15
-        - CARROT/12
-      cookingtime: 7
-      distillruns: 7
-      distilltime: 40
-      wood: 0
-      age: 7
-      color: 'EEFF00'
-      difficulty: 7
-      alcohol: 10
-      lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
-      customModelData: 576/576/576
-      effects:
-        - HUNGER/200/1
-        - NIGHT_VISION/0-2/0-120
-        - SPEED/0-1/0-60
-        - DARKNESS/0-1/0-5
-
   gradient_boost_raf:
-      name: Slow gradient boost/Gradient boost/&#002AFFFast gradient boost
+      name: Slow gradient boost/Gradient boost/&#3354ffFast gradient boost
       ingredients:
         - BLUE_ORCHID/6
         - SUGAR/16
@@ -520,9 +68,9 @@ recipes:
       difficulty: 7
       alcohol: 30
       lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
+        - +++&#667fffDesigned by NaviRaf
+        - ++&#667fffDesigned by NaviRaf
+        - +&#667fffDesigned by NaviRaf
       customModelData: 577/577/577
       effects:
         - HUNGER/200/1
@@ -530,8 +78,188 @@ recipes:
         - STRENGTH/0-2/0-15
         - SLOWNESS/0-2/0-20
 
+  crimson_juice_dk:
+      name: Enraging crimson juice/Crimson Juice/&#c4334fDemonic crimson juice
+      ingredients:
+        - CRIMSON_FUNGUS/1
+        - CARROT/4
+        - WITHER_ROSE/1
+      cookingtime: 2
+      distillruns: 0
+      wood: 7
+      age: 3
+      color: 'b60024'
+      difficulty: 7
+      alcohol: 20
+      lore:
+        - +++&#d3667bYou feel the power of captured souls
+        - +&#d3667bIs it blood?!
+      glint: true
+      customModelData: 569/569/569
+      effects:
+        - HUNGER/200/1
+        - ABSORPTION/0-1/0-300
+        - STRENGTH/0-2/0-480
+        - NIGHT_VISION/0-1/0-600
+        - WITHER/2-0/90-0
+        - BLINDNESS/1-0/300-0
+        - INSTANT_DAMAGE/2-0/1-0
+
+  chorus_essense_dk:
+      name: Sickening chorus essense/Chorus Essense/&#573b77Mystical chorus essense
+      ingredients:
+        - CHORUS_FRUIT/4
+        - ALLIUM/1
+        - WARPED_FUNGUS/2
+      cookingtime: 2
+      distillruns: 11
+      distilltime: 10
+      wood: 8
+      age: 1
+      color: '2e0a56'
+      difficulty: 7
+      alcohol: 16
+      lore:
+        - +++&#816c99It's like looking into portal
+        - +&#816c99Your end is close
+      glint: true
+      customModelData: 567/567/567
+      effects:
+        - HUNGER/200/1
+        - DOLPHINS_GRACE/0-1/0-300
+        - SLOW_FALLING/0-1/0-480
+        - REGENERATION/0-2/0-90
+        - DARKNESS/1-0/300-0
+        - BLINDNESS/1-0/300-0
+        - INSTANT_DAMAGE/2-0/1-0
+
+  potato_moonshine_raf:
+      name: Weak potato moonshine/Potato moonshine/&#d7f3ffSlavic potato moonshine
+      ingredients:
+        - POTATO/15
+        - SUGAR/4
+      cookingtime: 7
+      distillruns: 5
+      distilltime: 40
+      age: 0
+      color: 'CDF0FF'
+      difficulty: 7
+      alcohol: 50
+      lore:
+        - +++&#e1f6ffDesigned by NaviRaf
+        - ++&#e1f6ffDesigned by NaviRaf
+        - +&#e1f6ffDesigned by NaviRaf
+      customModelData: 575/575/575
+      effects:
+        - HUNGER/200/1
+        - STRENGTH/0-2/0-30
+        - NAUSEA/0-1/0-5
+
+  carrot_juice_raf:
+      name: Spoiled carrot juice/Carrot juice/&#ffaa33Strong carrot juice
+      ingredients:
+        - CARROT/17
+        - SUGAR/3
+      cookingtime: 2
+      distillruns: 0
+      wood: 9
+      age: 1
+      color: 'FF9500'
+      difficulty: 7
+      alcohol: 30
+      lore:
+        - +++&#ffbf66Designed by NaviRaf
+        - ++&#ffbf66Designed by NaviRaf
+        - +&#ffbf66Designed by NaviRaf
+      customModelData: 579/579/579
+      effects:
+        - HUNGER/200/1
+        - SPEED/0-1/0-60
+        - BLINDNESS/0-1/0-5
+        - HASTE/0-1/0-30
+
+  dandelion_wine_dk:
+      name: Disgusting dandelion wine/Dandelion wine/&#f3ff7cBittersweet dandelion wine
+      ingredients:
+        - DANDELION/4
+        - WILDFLOWERS/4
+        - LILY_OF_THE_VALLEY/1
+      cookingtime: 4
+      distillruns: 0
+      wood: 1
+      age: 5
+      color: 'f1ff5c'
+      difficulty: 7
+      alcohol: 10
+      lore:
+        - +++&#f6ff9dYou feel nostalgic as you smell it
+        - +&#f6ff9dWho brews flowers?
+      customModelData: 570/570/570
+      effects:
+        - HUNGER/200/1
+        - DOLPHINS_GRACE/0-1/0-300
+        - SLOW_FALLING/0-1/0-480
+        - INSTANT_HEALTH/0-3/0-1
+        - MINING_FATIGUE/2-0/300-0
+        - LEVITATION/2-0/30-0
+        - WEAKNESS/2-0/240-0
+
+  seaweed_sake_dk:
+      name: Salty seaweed sake/Seaweed Sake/&#4eddcdMild seaweed sake
+      ingredients:
+        - DRIED_KELP/3
+        - PINK_PETALS/3
+        - SMALL_DRIPLEAF/2
+      cookingtime: 7
+      distillruns: 0
+      wood: 11
+      age: 2
+      color: '22d5c1'
+      difficulty: 7
+      alcohol: 13
+      lore:
+        - +++&#7ae5d9Fresh, subtle, with a touch of the ocean breeze
+        - +&#7ae5d9Tastes like the sea water
+      customModelData: 564/564/564
+      effects:
+        - HUNGER/200/1
+        - DOLPHINS_GRACE/0-1/0-300
+        - SLOW_FALLING/0-1/0-480
+        - FIRE_RESISTANCE/0-1/0-600
+        - INFESTED/1-0/300-0
+        - BLINDNESS/1-0/300-0
+        - WEAKNESS/2-0/240-0
+
+  glowing_berries_wine_dk:
+      name: Blinding glowing berries wine/Glowing Berries Wine/&#e6d946Mild glowing berries wine
+      ingredients:
+        - GLOW_BERRIES/2
+        - GLOWSTONE_DUST/1
+        - OPEN_EYEBLOSSOM/1
+      cookingtime: 4
+      distillruns: 1
+      distilltime: 50
+      wood: 6
+      age: 2
+      color: 'e0d018'
+      difficulty: 7
+      alcohol: 12
+      lore:
+        - +++&#ece274Radiates a soft glow and tastes magically sweet
+        - +&#ece274Why is it glowing?
+      glint: true
+      customModelData: 557/557/557
+      effects:
+        - HUNGER/200/1
+        - INVISIBILITY/0-1/0-480
+        - NIGHT_VISION/0-1/0-600
+        - GLOWING/0-1/0-600
+        - DARKNESS/1-0/300-0
+        - WEAKNESS/2-0/240-0
+        - BLINDNESS/1-0/300-0
+
   bamboo_liqueur_dk:
-      name: Watery bamboo liqueur/Bamboo liqueur/&#7dddb5Sweet bamboo liqueur
+      name: Watery bamboo liqueur/Bamboo liqueur/&#97e3c3Sweet bamboo liqueur
       ingredients:
         - BAMBOO/2
         - LILY_PAD/3
@@ -545,8 +273,8 @@ recipes:
       difficulty: 7
       alcohol: 12
       lore:
-        - +++Refreshing, like walk in a quiet garden
-        - +It's like eating grass
+        - +++&#b1ead2Refreshing, like walk in a quiet garden
+        - +&#b1ead2It's like eating grass
       customModelData: 565/565/565
       effects:
         - HUNGER/200/1
@@ -557,58 +285,8 @@ recipes:
         - UNLUCK/1-0/400-0
         - NAUSEA/2-0/300-0
 
-  berry_wine_dk:
-      name: Sour berry wine/Berry Wine/&#e1364dSweet berry wine
-      ingredients:
-        - SWEET_BERRIES/4
-        - SPORE_BLOSSOM/2
-        - REDSTONE/1
-      cookingtime: 7
-      distillruns: 0
-      wood: 13
-      age: 3
-      color: 'e1364d'
-      difficulty: 7
-      alcohol: 10
-      lore:
-        - +++Feel yourself an aristocrat
-      customModelData: 566/566/566
-      effects:
-        - HUNGER/200/1
-        - HEALTH_BOOST/0-1/0-300
-        - REGENERATION/0-2/0-90
-        - NIGHT_VISION/0-1/0-600
-        - MINING_FATIGUE/2-0/300-0
-        - POISON/2-0/90-0
-        - WEAKNESS/2-0/240-0
-
-  cider_dk:
-      name: Tangy cider/Cider/&#f1c40fSweet cider
-      ingredients:
-        - APPLE/2
-        - SUGAR/3
-        - GOLDEN_APPLE/1
-      cookingtime: 4
-      distillruns: 0
-      wood: 2
-      age: 3
-      color: 'f1c40f'
-      difficulty: 7
-      alcohol: 8
-      lore:
-        - +++Crisp, sweet, and refreshingly fruity
-      customModelData: 560/560/560
-      effects:
-        - HUNGER/200/1
-        - HEALTH_BOOST/0-1/0-300
-        - REGENERATION/0-2/0-90
-        - SPEED/0-2/0-480
-        - WEAVING/1-0/300-0
-        - WEAKNESS/2-0/240-0
-        - LEVITATION/2-0/30-0
-
   fish_soup_raf:
-      name: Rotten fish soup/Fish soup/&#575757Strong fish soup
+      name: Rotten fish soup/Fish soup/&#787878Strong fish soup
       ingredients:
         - COD/5
         - SALMON/4
@@ -623,9 +301,9 @@ recipes:
       difficulty: 7
       alcohol: 30
       lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
+        - +++&#9a9a9aDesigned by NaviRaf
+        - ++&#9a9a9aDesigned by NaviRaf
+        - +&#9a9a9aDesigned by NaviRaf
       customModelData: 581/581/581
       effects:
         - HUNGER/200/1
@@ -633,33 +311,161 @@ recipes:
         - WEAKNESS/0-1/0-30
         - NAUSEA/0-1/0-5
 
-  root_beer_dk:
-      name: Bitter root beer/Root Beer/&#563400Sweet root beer
+  cider_dk:
+      name: Tangy cider/Cider/&#f3cf3fSweet cider
       ingredients:
-        - FERN/3
-        - HANGING_ROOTS/1
-        - CRIMSON_ROOTS/1
+        - APPLE/2
+        - SUGAR/3
+        - GOLDEN_APPLE/1
       cookingtime: 4
       distillruns: 0
+      wood: 2
+      age: 3
+      color: 'f1c40f'
+      difficulty: 7
+      alcohol: 8
+      lore:
+        - +++&#f6db6fCrisp, sweet, and refreshingly fruity
+      customModelData: 560/560/560
+      effects:
+        - HUNGER/200/1
+        - HEALTH_BOOST/0-1/0-300
+        - REGENERATION/0-2/0-90
+        - SPEED/0-2/0-480
+        - WEAVING/1-0/300-0
+        - WEAKNESS/2-0/240-0
+        - LEVITATION/2-0/30-0
+
+  melon_punch_dk:
+      name: Zesty melon punch/Melon Punch/&#ff564aTropical melon punch
+      ingredients:
+        - MELON_SLICE/2
+        - SUGAR_CANE/2
+        - GLISTERING_MELON_SLICE/3
+      cookingtime: 5
+      distillruns: 0
+      wood: 3
+      age: 2
+      color: 'ff2c1d'
+      difficulty: 7
+      alcohol: 12
+      lore:
+        - +++&#ff8077Take a sip and relax on a beach
+      customModelData: 563/563/563
+      effects:
+        - HUNGER/200/1
+        - HEALTH_BOOST/0-1/0-300
+        - INSTANT_HEALTH/0-3/0-1
+        - WATER_BREATHING/0-1/0-600
+        - WITHER/2-0/90-0
+        - NAUSEA/2-0/300-0
+        - WEAKNESS/2-0/240-0
+
+  gin_dk:
+      name: Watery gin/Gin/&#bedef3Chilling gin
+      ingredients:
+        - SPRUCE_SAPLING/4
+        - SNOWBALL/1
+        - BREEZE_ROD/1
+      cookingtime: 4
+      distillruns: 1
+      distilltime: 50
       wood: 4
+      age: 4
+      color: 'aed6f1'
+      difficulty: 7
+      alcohol: 38
+      lore:
+        - +++&#cee6f6A cold drink for a warm soul
+        - +&#cee6f6Beware, it bites like a winter frost
+      customModelData: 561/561/561
+      effects:
+        - HUNGER/200/1
+        - ABSORPTION/0-1/0-300
+        - STRENGTH/0-2/0-480
+        - NIGHT_VISION/0-1/0-600
+        - MINING_FATIGUE/2-0/300-0
+        - SLOWNESS/2-0/240-0
+        - LEVITATION/2-0/30-0
+
+  moonshine_dk:
+      name: Reckless moonshine/Moonshine/&#f3ddb8Potent moonshine
+      ingredients:
+        - BEETROOT/6
+        - POTATO/3
+        - TORCHFLOWER/2
+      cookingtime: 4
+      distillruns: 3
+      distilltime: 50
+      age: 0
+      color: 'f1d5a7'
+      difficulty: 7
+      alcohol: 42
+      lore:
+        - +++&#f6e5caStrong and sharp, with a fiery kick
+        - +&#f6e5caMay make you see stars
+      customModelData: 562/562/562
+      effects:
+        - HUNGER/200/1
+        - ABSORPTION/0-1/0-300
+        - STRENGTH/0-2/0-480
+        - REGENERATION/0-2/0-90
+        - MINING_FATIGUE/2-0/300-0
+        - UNLUCK/1-0/400-0
+        - WEAKNESS/2-0/240-0
+
+  mushroom_ale_raf:
+      name: Weird mushroom ale/Mushroom ale/&#775c33Strong mushroom ale
+      ingredients:
+        - SUGAR/1
+        - BROWN_MUSHROOM/1
+        - RED_MUSHROOM/1
+      cookingtime: 4
+      distillruns: 4
+      distilltime: 40
+      wood: 2
       age: 1
       color: '563400'
       difficulty: 7
-      alcohol: 7
+      alcohol: 10
       lore:
-        - +++A crisp, herbal brew with a hint of sweetness
-      customModelData: 556/556/556
+        - +++&#998566Designed by NaviRaf
+        - ++&#998566Designed by NaviRaf
+        - +&#998566Designed by NaviRaf
+      customModelData: 571/571/571
       effects:
         - HUNGER/200/1
-        - DOLPHINS_GRACE/0-1/0-300
-        - SPEED/0-2/0-480
-        - REGENERATION/0-2/0-90
-        - DARKNESS/1-0/300-0
-        - NAUSEA/2-0/300-0
-        - BLINDNESS/1-0/300-0
+        - REGENERATION/0-30/0-1
+        - NAUSEA/0-1/0-10
+        - WEAKNESS/0-2/0-10
+
+  miner_potion_raf:
+      name: Dark miner potion/Miner potion/&#f1ff33Light miner potion
+      ingredients:
+        - SOUL_TORCH/12
+        - COAL/15
+        - CARROT/12
+      cookingtime: 7
+      distillruns: 7
+      distilltime: 40
+      wood: 0
+      age: 7
+      color: 'EEFF00'
+      difficulty: 7
+      alcohol: 10
+      lore:
+        - +++&#f4ff66Designed by NaviRaf
+        - ++&#f4ff66Designed by NaviRaf
+        - +&#f4ff66Designed by NaviRaf
+      customModelData: 576/576/576
+      effects:
+        - HUNGER/200/1
+        - NIGHT_VISION/0-2/0-120
+        - SPEED/0-1/0-60
+        - DARKNESS/0-1/0-5
 
   forest_wine_raf:
-      name: Grassy forest wine/Forest wine/&#FF00BFFlowery forest wine
+      name: Grassy forest wine/Forest wine/&#ff33cbFlowery forest wine
       ingredients:
         - SWEET_BERRIES/20
         - LILY_OF_THE_VALLEY/4
@@ -673,12 +479,211 @@ recipes:
       difficulty: 7
       alcohol: 30
       lore:
-        - +++Designed by NaviRaf
-        - ++Designed by NaviRaf
-        - +Designed by NaviRaf
+        - +++&#ff66d8Designed by NaviRaf
+        - ++&#ff66d8Designed by NaviRaf
+        - +&#ff66d8Designed by NaviRaf
       customModelData: 582/582/582
       effects:
         - HUNGER/200/1
         - SPEED/0-1/0-60
         - ABSORPTION/0-1/0-30
+
+  ice_brandy_raf:
+      name: Chilling ice brandy/Ice brandy/&#43c7ffFine ice brandy
+      ingredients:
+        - SNOWBALL/16
+        - SUNFLOWER/1
+        - SUGAR/3
+      cookingtime: 11
+      distillruns: 5
+      distilltime: 40
+      wood: 6
+      age: 19
+      color: '15B9FF'
+      difficulty: 7
+      alcohol: 30
+      lore:
+        - +++&#72d5ffDesigned by NaviRaf
+        - ++&#72d5ffDesigned by NaviRaf
+        - +&#72d5ffDesigned by NaviRaf
+      customModelData: 574/574/574
+      effects:
+        - HUNGER/200/1
+        - SPEED/0-2/0-30
+        - HASTE/0-1/0-25
+        - SLOWNESS/0-1/0-10
+
+  mushroom_brew_dk:
+      name: Musty mushroom brew/Mushroom Brew/&#6b4634Earthy mushroom brew
+      ingredients:
+        - BROWN_MUSHROOM/1
+        - RED_MUSHROOM/3
+        - WARPED_FUNGUS/1
+      cookingtime: 2
+      distillruns: 1
+      distilltime: 45
+      wood: 9
+      age: 3
+      color: '471802'
+      difficulty: 7
+      alcohol: 8
+      lore:
+        - +++&#907467Open your eyes and embrace the weirdness
+        - +&#907467Makes you question reality for a moment
+      glint: true
+      customModelData: 559/559/559
+      effects:
+        - HUNGER/200/1
+        - INVISIBILITY/0-1/0-480
+        - NIGHT_VISION/0-1/0-600
+        - RESISTANCE/0-2/0-480
+        - WITHER/2-0/90-0
+        - POISON/2-0/90-0
+
+  root_beer_dk:
+      name: Bitter root beer/Root Beer/&#775c33Sweet root beer
+      ingredients:
+        - FERN/3
+        - HANGING_ROOTS/1
+        - CRIMSON_ROOTS/1
+      cookingtime: 4
+      distillruns: 0
+      wood: 4
+      age: 1
+      color: '563400'
+      difficulty: 7
+      alcohol: 7
+      lore:
+        - +++&#998566A crisp, herbal brew with a hint of sweetness
+      customModelData: 556/556/556
+      effects:
+        - HUNGER/200/1
+        - DOLPHINS_GRACE/0-1/0-300
+        - SPEED/0-2/0-480
+        - REGENERATION/0-2/0-90
+        - DARKNESS/1-0/300-0
+        - NAUSEA/2-0/300-0
+        - BLINDNESS/1-0/300-0
+
+  garlic_essense_raf:
+      name: Nasty garlic essense/Garlic essense/&#ebebebClear garlic essense
+      ingredients:
+        - ALLIUM/6
+        - SUGAR_CANE/2
+        - WHEAT/6
+      cookingtime: 3
+      distillruns: 2
+      distilltime: 40
+      wood: 0
+      age: 3
+      color: 'E6E6E6'
+      difficulty: 7
+      alcohol: 30
+      lore:
+        - +++&#f0f0f0Designed by NaviRaf
+        - ++&#f0f0f0Designed by NaviRaf
+        - +&#f0f0f0Designed by NaviRaf
+      customModelData: 578/578/578
+      effects:
+        - HUNGER/200/1
+        - RESISTANCE/0-1/0-60
+        - WEAKNESS/0-1/0-10
+
+  fire_whiskey_dk:
+      name: Scorching fire whiskey/Fire Whiskey/&#ff9533Fiery fire whiskey
+      ingredients:
+        - WHEAT/4
+        - BLAZE_ROD/1
+        - CRIMSON_FUNGUS/1
+      cookingtime: 4
+      distillruns: 3
+      distilltime: 50
+      wood: 12
+      age: 2
+      color: 'ff7b00'
+      difficulty: 7
+      alcohol: 40
+      lore:
+        - +++&#ffaf66Burns with the intensity of a thousand embers
+        - +&#ffaf66Sip too many and you might burn your tongue
+      glint: true
+      customModelData: 558/558/558
+      effects:
+        - HUNGER/200/1
+        - HASTE/0-2/0-300
+        - LUCK/0-1/0-400
+        - WATER_BREATHING/0-1/0-600
+        - WITHER/2-0/90-0
+        - NAUSEA/2-0/300-0
+        - POISON/2-0/90-0
+
+  apple_wine_raf:
+      name: Acidic apple wine/Apple wine/&#f8b34dAromatic apple wine
+      ingredients:
+        - APPLE/3
+        - SUGAR/2
+      cookingtime: 7
+      distillruns: 3
+      distilltime: 40
+      wood: 0
+      age: 27
+      color: 'F7A121'
+      difficulty: 7
+      alcohol: 10
+      lore:
+        - +++&#fac679Designed by NaviRaf
+        - ++&#fac679Designed by NaviRaf
+        - +&#fac679Designed by NaviRaf
+      customModelData: 572/572/572
+      effects:
+        - HUNGER/200/1
+        - SPEED/0-1/0-120
+        - WEAKNESS/0-1/0-30
+
+  hell_moonshine_raf:
+      name: Burning hell moonshine/Hell moonshine/&#ff5b33Flaming hell moonshine
+      ingredients:
+        - BLAZE_POWDER/3
+        - NETHER_WART/8
+        - SUGAR/6
+      cookingtime: 11
+      distillruns: 4
+      distilltime: 40
+      age: 0
+      color: 'FF3300'
+      difficulty: 7
+      alcohol: 30
+      lore:
+        - +++&#ff8466Designed by NaviRaf
+        - ++&#ff8466Designed by NaviRaf
+        - +&#ff8466Designed by NaviRaf
+      customModelData: 573/573/573
+      effects:
+        - HUNGER/200/1
+        - STRENGTH/0-2/0-180
+
+  berry_wine_dk:
+      name: Sour berry wine/Berry Wine/&#e75e70Sweet berry wine
+      ingredients:
+        - SWEET_BERRIES/4
+        - SPORE_BLOSSOM/2
+        - REDSTONE/1
+      cookingtime: 7
+      distillruns: 0
+      wood: 13
+      age: 3
+      color: 'e1364d'
+      difficulty: 7
+      alcohol: 10
+      lore:
+        - +++&#ed8694Feel yourself an aristocrat
+      customModelData: 566/566/566
+      effects:
+        - HUNGER/200/1
+        - HEALTH_BOOST/0-1/0-300
+        - REGENERATION/0-2/0-90
+        - NIGHT_VISION/0-1/0-600
+        - MINING_FATIGUE/2-0/300-0
+        - POISON/2-0/90-0
+        - WEAKNESS/2-0/240-0
 

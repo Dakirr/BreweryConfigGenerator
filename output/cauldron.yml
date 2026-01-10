@@ -1,17 +1,10 @@
 cauldron:
-  carrot_brew:
-      name: Brewed carrot
-      ingredients: CARROT
-      color: '#e67e22'
+  lily_of_the_valley_brew:
+      name: Brewed lily of the valley
+      ingredients: LILY_OF_THE_VALLEY
+      color: '#fdfefe'
       cookParticles:
-      - '#e67e22/4'
-      
-  wildflowers_brew:
-      name: Brewed wildflowers
-      ingredients: WILDFLOWERS
-      color: '#f7dc6f'
-      cookParticles:
-      - '#f7dc6f/4'
+      - '#fdfefe/4'
       
   blaze_rod_brew:
       name: Brewed blaze rod
@@ -20,320 +13,12 @@ cauldron:
       cookParticles:
       - '#e67e22/4'
       
-  warped_fungus_brew:
-      name: Brewed warped fungus
-      ingredients: WARPED_FUNGUS
-      color: '#117864'
-      cookParticles:
-      - '#117864/4'
-      
-  short_grass_brew:
-      name: Brewed short grass
-      ingredients: SHORT_GRASS
-      color: '#27ae60'
-      cookParticles:
-      - '#27ae60/4'
-      
-  slime_ball_brew:
-      name: Brewed slime ball
-      ingredients: SLIME_BALL
-      color: '#74FF39'
-      cookParticles:
-      - '#74FF39/4'
-      
-  lily_pad_brew:
-      name: Brewed lily pad
-      ingredients: LILY_PAD
-      color: '#196f3d'
-      cookParticles:
-      - '#196f3d/4'
-      
-  fern_brew:
-      name: Brewed fern
-      ingredients: FERN
-      color: '#145a32'
-      cookParticles:
-      - '#145a32/4'
-      
-  chorus_fruit_brew:
-      name: Brewed chorus fruit
-      ingredients: CHORUS_FRUIT
-      color: '#9b59b6'
-      cookParticles:
-      - '#9b59b6/4'
-      
-  sugar_brew:
-      name: Brewed sugar
-      ingredients: SUGAR
-      color: '#ffffff'
-      cookParticles:
-      - '#ffffff/4'
-      
-  melon_slice_brew:
-      name: Brewed melon slice
-      ingredients: MELON_SLICE
-      color: '#d20000'
-      cookParticles:
-      - '#d20000/4'
-      
-  cod_brew:
-      name: Brewed cod
-      ingredients: COD
-      color: '#ADB87E'
-      cookParticles:
-      - '#ADB87E/4'
-      
-  golden_apple_brew:
-      name: Brewed golden apple
-      ingredients: GOLDEN_APPLE
-      color: '#f1c40f'
-      cookParticles:
-      - '#f1c40f/4'
-      
-  dandelion_brew:
-      name: Brewed dandelion
-      ingredients: DANDELION
-      color: '#f7dc6f'
-      cookParticles:
-      - '#f7dc6f/4'
-      
-  nether_wart_brew:
-      name: Brewed nether wart
-      ingredients: NETHER_WART
-      color: '#780000'
-      cookParticles:
-      - '#780000/4'
-      
-  breeze_rod_brew:
-      name: Brewed breeze rod
-      ingredients: BREEZE_ROD
-      color: '#85c1e9'
-      cookParticles:
-      - '#85c1e9/4'
-      
-  snowball_brew:
-      name: Brewed snowball
-      ingredients: SNOWBALL
-      color: '#ffffff'
-      cookParticles:
-      - '#ffffff/4'
-      
-  hanging_roots_brew:
-      name: Brewed hanging roots
-      ingredients: HANGING_ROOTS
-      color: '#7d6608'
-      cookParticles:
-      - '#7d6608/4'
-      
-  red_mushroom_brew:
-      name: Brewed red mushroom
-      ingredients: RED_MUSHROOM
-      color: '#c0392b'
-      cookParticles:
-      - '#c0392b/4'
-      
-  glowstone_brew:
-      name: Brewed glowstone
-      ingredients: GLOWSTONE
-      color: '#FFFF00'
-      cookParticles:
-      - '#FFFF00/4'
-      
-  lily_of_the_valley_brew:
-      name: Brewed lily of the valley
-      ingredients: LILY_OF_THE_VALLEY
-      color: '#fdfefe'
-      cookParticles:
-      - '#fdfefe/4'
-      
-  big_dripleaf_brew:
-      name: Brewed big dripleaf
-      ingredients: BIG_DRIPLEAF
-      color: '#196f3d'
-      cookParticles:
-      - '#196f3d/4'
-      
-  soul_torch_brew:
-      name: Brewed soul torch
-      ingredients: SOUL_TORCH
-      color: '#85FFFF'
-      cookParticles:
-      - '#85FFFF/4'
-      
-  spruce_sapling_brew:
-      name: Brewed spruce sapling
-      ingredients: SPRUCE_SAPLING
-      color: '#006f1c'
-      cookParticles:
-      - '#006f1c/4'
-      
-  dried_kelp_brew:
-      name: Brewed dried kelp
-      ingredients: DRIED_KELP
-      color: '#145a32'
-      cookParticles:
-      - '#145a32/4'
-      
-  seagrass_brew:
-      name: Brewed seagrass
-      ingredients: SEAGRASS
-      color: '#1FD4A7'
-      cookParticles:
-      - '#1FD4A7/4'
-      
-  blaze_powder_brew:
-      name: Brewed blaze powder
-      ingredients: BLAZE_POWDER
-      color: '#FFC400'
-      cookParticles:
-      - '#FFC400/4'
-      
   cactus_brew:
       name: Brewed cactus
       ingredients: CACTUS
       color: '#229954'
       cookParticles:
       - '#229954/4'
-      
-  blue_orchid_brew:
-      name: Brewed blue orchid
-      ingredients: BLUE_ORCHID
-      color: '#3498db'
-      cookParticles:
-      - '#3498db/4'
-      
-  crimson_fungus_brew:
-      name: Brewed crimson fungus
-      ingredients: CRIMSON_FUNGUS
-      color: '#7b241c'
-      cookParticles:
-      - '#7b241c/4'
-      
-  allium_brew:
-      name: Brewed allium
-      ingredients: ALLIUM
-      color: '#8e44ad'
-      cookParticles:
-      - '#8e44ad/4'
-      
-  sunflower_brew:
-      name: Brewed sunflower
-      ingredients: SUNFLOWER
-      color: '#e8fd01'
-      cookParticles:
-      - '#e8fd01/4'
-      
-  glowstone_dust_brew:
-      name: Brewed glowstone dust
-      ingredients: GLOWSTONE_DUST
-      color: '#f7dc6f'
-      cookParticles:
-      - '#f7dc6f/4'
-      
-  glistering_melon_slice_brew:
-      name: Brewed glistering melon slice
-      ingredients: GLISTERING_MELON_SLICE
-      color: '#f4d03f'
-      cookParticles:
-      - '#f4d03f/4'
-      
-  bone_meal_brew:
-      name: Brewed bone meal
-      ingredients: BONE_MEAL
-      color: '#B0B0B0'
-      cookParticles:
-      - '#B0B0B0/4'
-      
-  potato_brew:
-      name: Brewed potato
-      ingredients: POTATO
-      color: '#cfa64b'
-      cookParticles:
-      - '#cfa64b/4'
-      
-  redstone_brew:
-      name: Brewed redstone
-      ingredients: REDSTONE
-      color: '#c0392b'
-      cookParticles:
-      - '#c0392b/4'
-      
-  beetroot_brew:
-      name: Brewed beetroot
-      ingredients: BEETROOT
-      color: '#922b21'
-      cookParticles:
-      - '#922b21/4'
-      
-  sugar_cane_brew:
-      name: Brewed sugar cane
-      ingredients: SUGAR_CANE
-      color: '#a9dfbf'
-      cookParticles:
-      - '#a9dfbf/4'
-      
-  gunpowder_brew:
-      name: Brewed gunpowder
-      ingredients: GUNPOWDER
-      color: '#566573'
-      cookParticles:
-      - '#566573/4'
-      
-  spore_blossom_brew:
-      name: Brewed spore blossom
-      ingredients: SPORE_BLOSSOM
-      color: '#d7bde2'
-      cookParticles:
-      - '#d7bde2/4'
-      
-  coal_brew:
-      name: Brewed coal
-      ingredients: COAL
-      color: '#000000'
-      cookParticles:
-      - '#000000/4'
-      
-  sweet_berries_brew:
-      name: Brewed sweet berries
-      ingredients: SWEET_BERRIES
-      color: '#c0392b'
-      cookParticles:
-      - '#c0392b/4'
-      
-  bone_brew:
-      name: Brewed bone
-      ingredients: BONE
-      color: '#B0B0B0'
-      cookParticles:
-      - '#B0B0B0/4'
-      
-  torchflower_brew:
-      name: Brewed torchflower
-      ingredients: TORCHFLOWER
-      color: '#f39c12'
-      cookParticles:
-      - '#f39c12/4'
-      
-  wheat_brew:
-      name: Brewed wheat
-      ingredients: WHEAT
-      color: '#d4ac0d'
-      cookParticles:
-      - '#d4ac0d/4'
-      
-  wither_rose_brew:
-      name: Brewed wither rose
-      ingredients: WITHER_ROSE
-      color: '#1c2833'
-      cookParticles:
-      - '#1c2833/4'
-      
-  apple_brew:
-      name: Brewed apple
-      ingredients: APPLE
-      color: '#c0392b'
-      cookParticles:
-      - '#c0392b/4'
       
   brown_mushroom_brew:
       name: Brewed brown mushroom
@@ -342,19 +27,96 @@ cauldron:
       cookParticles:
       - '#7f8c8d/4'
       
-  bamboo_brew:
-      name: Brewed bamboo
-      ingredients: BAMBOO
-      color: '#2ecc71'
+  nether_wart_brew:
+      name: Brewed nether wart
+      ingredients: NETHER_WART
+      color: '#780000'
       cookParticles:
-      - '#2ecc71/4'
+      - '#780000/4'
       
-  cactus_flower_brew:
-      name: Brewed cactus flower
-      ingredients: CACTUS_FLOWER
-      color: '#58d68d'
+  crimson_fungus_brew:
+      name: Brewed crimson fungus
+      ingredients: CRIMSON_FUNGUS
+      color: '#7b241c'
       cookParticles:
-      - '#58d68d/4'
+      - '#7b241c/4'
+      
+  glowstone_brew:
+      name: Brewed glowstone
+      ingredients: GLOWSTONE
+      color: '#FFFF00'
+      cookParticles:
+      - '#FFFF00/4'
+      
+  wildflowers_brew:
+      name: Brewed wildflowers
+      ingredients: WILDFLOWERS
+      color: '#f7dc6f'
+      cookParticles:
+      - '#f7dc6f/4'
+      
+  short_grass_brew:
+      name: Brewed short grass
+      ingredients: SHORT_GRASS
+      color: '#27ae60'
+      cookParticles:
+      - '#27ae60/4'
+      
+  hanging_roots_brew:
+      name: Brewed hanging roots
+      ingredients: HANGING_ROOTS
+      color: '#7d6608'
+      cookParticles:
+      - '#7d6608/4'
+      
+  warped_fungus_brew:
+      name: Brewed warped fungus
+      ingredients: WARPED_FUNGUS
+      color: '#117864'
+      cookParticles:
+      - '#117864/4'
+      
+  wheat_brew:
+      name: Brewed wheat
+      ingredients: WHEAT
+      color: '#d4ac0d'
+      cookParticles:
+      - '#d4ac0d/4'
+      
+  golden_apple_brew:
+      name: Brewed golden apple
+      ingredients: GOLDEN_APPLE
+      color: '#f1c40f'
+      cookParticles:
+      - '#f1c40f/4'
+      
+  cod_brew:
+      name: Brewed cod
+      ingredients: COD
+      color: '#ADB87E'
+      cookParticles:
+      - '#ADB87E/4'
+      
+  beetroot_brew:
+      name: Brewed beetroot
+      ingredients: BEETROOT
+      color: '#922b21'
+      cookParticles:
+      - '#922b21/4'
+      
+  spore_blossom_brew:
+      name: Brewed spore blossom
+      ingredients: SPORE_BLOSSOM
+      color: '#d7bde2'
+      cookParticles:
+      - '#d7bde2/4'
+      
+  sweet_berries_brew:
+      name: Brewed sweet berries
+      ingredients: SWEET_BERRIES
+      color: '#c0392b'
+      cookParticles:
+      - '#c0392b/4'
       
   glow_berries_brew:
       name: Brewed glow berries
@@ -363,19 +125,54 @@ cauldron:
       cookParticles:
       - '#f1c40f/4'
       
-  open_eyeblossom_brew:
-      name: Brewed open eyeblossom
-      ingredients: OPEN_EYEBLOSSOM
-      color: '#f1a90f'
+  sugar_cane_brew:
+      name: Brewed sugar cane
+      ingredients: SUGAR_CANE
+      color: '#a9dfbf'
       cookParticles:
-      - '#f1a90f/4'
+      - '#a9dfbf/4'
       
-  pink_petals_brew:
-      name: Brewed pink petals
-      ingredients: PINK_PETALS
-      color: '#fb9ee3'
+  seagrass_brew:
+      name: Brewed seagrass
+      ingredients: SEAGRASS
+      color: '#1FD4A7'
       cookParticles:
-      - '#fb9ee3/4'
+      - '#1FD4A7/4'
+      
+  fern_brew:
+      name: Brewed fern
+      ingredients: FERN
+      color: '#145a32'
+      cookParticles:
+      - '#145a32/4'
+      
+  wither_rose_brew:
+      name: Brewed wither rose
+      ingredients: WITHER_ROSE
+      color: '#1c2833'
+      cookParticles:
+      - '#1c2833/4'
+      
+  redstone_brew:
+      name: Brewed redstone
+      ingredients: REDSTONE
+      color: '#c0392b'
+      cookParticles:
+      - '#c0392b/4'
+      
+  spruce_sapling_brew:
+      name: Brewed spruce sapling
+      ingredients: SPRUCE_SAPLING
+      color: '#006f1c'
+      cookParticles:
+      - '#006f1c/4'
+      
+  apple_brew:
+      name: Brewed apple
+      ingredients: APPLE
+      color: '#c0392b'
+      cookParticles:
+      - '#c0392b/4'
       
   salmon_brew:
       name: Brewed salmon
@@ -384,12 +181,166 @@ cauldron:
       cookParticles:
       - '#B5886E/4'
       
+  dandelion_brew:
+      name: Brewed dandelion
+      ingredients: DANDELION
+      color: '#f7dc6f'
+      cookParticles:
+      - '#f7dc6f/4'
+      
+  blaze_powder_brew:
+      name: Brewed blaze powder
+      ingredients: BLAZE_POWDER
+      color: '#FFC400'
+      cookParticles:
+      - '#FFC400/4'
+      
   ice_brew:
       name: Brewed ice
       ingredients: ICE
       color: '#96D7FF'
       cookParticles:
       - '#96D7FF/4'
+      
+  bone_meal_brew:
+      name: Brewed bone meal
+      ingredients: BONE_MEAL
+      color: '#B0B0B0'
+      cookParticles:
+      - '#B0B0B0/4'
+      
+  bamboo_brew:
+      name: Brewed bamboo
+      ingredients: BAMBOO
+      color: '#2ecc71'
+      cookParticles:
+      - '#2ecc71/4'
+      
+  allium_brew:
+      name: Brewed allium
+      ingredients: ALLIUM
+      color: '#8e44ad'
+      cookParticles:
+      - '#8e44ad/4'
+      
+  pink_petals_brew:
+      name: Brewed pink petals
+      ingredients: PINK_PETALS
+      color: '#fb9ee3'
+      cookParticles:
+      - '#fb9ee3/4'
+      
+  open_eyeblossom_brew:
+      name: Brewed open eyeblossom
+      ingredients: OPEN_EYEBLOSSOM
+      color: '#f1a90f'
+      cookParticles:
+      - '#f1a90f/4'
+      
+  lily_pad_brew:
+      name: Brewed lily pad
+      ingredients: LILY_PAD
+      color: '#196f3d'
+      cookParticles:
+      - '#196f3d/4'
+      
+  poppy_brew:
+      name: Brewed poppy
+      ingredients: POPPY
+      color: '#FF0000'
+      cookParticles:
+      - '#FF0000/4'
+      
+  glowstone_dust_brew:
+      name: Brewed glowstone dust
+      ingredients: GLOWSTONE_DUST
+      color: '#f7dc6f'
+      cookParticles:
+      - '#f7dc6f/4'
+      
+  sunflower_brew:
+      name: Brewed sunflower
+      ingredients: SUNFLOWER
+      color: '#e8fd01'
+      cookParticles:
+      - '#e8fd01/4'
+      
+  blue_orchid_brew:
+      name: Brewed blue orchid
+      ingredients: BLUE_ORCHID
+      color: '#3498db'
+      cookParticles:
+      - '#3498db/4'
+      
+  red_mushroom_brew:
+      name: Brewed red mushroom
+      ingredients: RED_MUSHROOM
+      color: '#c0392b'
+      cookParticles:
+      - '#c0392b/4'
+      
+  potato_brew:
+      name: Brewed potato
+      ingredients: POTATO
+      color: '#cfa64b'
+      cookParticles:
+      - '#cfa64b/4'
+      
+  bone_brew:
+      name: Brewed bone
+      ingredients: BONE
+      color: '#B0B0B0'
+      cookParticles:
+      - '#B0B0B0/4'
+      
+  sugar_brew:
+      name: Brewed sugar
+      ingredients: SUGAR
+      color: '#ffffff'
+      cookParticles:
+      - '#ffffff/4'
+      
+  dried_kelp_brew:
+      name: Brewed dried kelp
+      ingredients: DRIED_KELP
+      color: '#145a32'
+      cookParticles:
+      - '#145a32/4'
+      
+  big_dripleaf_brew:
+      name: Brewed big dripleaf
+      ingredients: BIG_DRIPLEAF
+      color: '#196f3d'
+      cookParticles:
+      - '#196f3d/4'
+      
+  cactus_flower_brew:
+      name: Brewed cactus flower
+      ingredients: CACTUS_FLOWER
+      color: '#58d68d'
+      cookParticles:
+      - '#58d68d/4'
+      
+  torchflower_brew:
+      name: Brewed torchflower
+      ingredients: TORCHFLOWER
+      color: '#f39c12'
+      cookParticles:
+      - '#f39c12/4'
+      
+  slime_ball_brew:
+      name: Brewed slime ball
+      ingredients: SLIME_BALL
+      color: '#74FF39'
+      cookParticles:
+      - '#74FF39/4'
+      
+  soul_torch_brew:
+      name: Brewed soul torch
+      ingredients: SOUL_TORCH
+      color: '#85FFFF'
+      cookParticles:
+      - '#85FFFF/4'
       
   crimson_roots_brew:
       name: Brewed crimson roots
@@ -398,6 +349,13 @@ cauldron:
       cookParticles:
       - '#922b21/4'
       
+  coal_brew:
+      name: Brewed coal
+      ingredients: COAL
+      color: '#000000'
+      cookParticles:
+      - '#000000/4'
+      
   small_dripleaf_brew:
       name: Brewed small dripleaf
       ingredients: SMALL_DRIPLEAF
@@ -405,10 +363,52 @@ cauldron:
       cookParticles:
       - '#239b56/4'
       
-  poppy_brew:
-      name: Brewed poppy
-      ingredients: POPPY
-      color: '#FF0000'
+  breeze_rod_brew:
+      name: Brewed breeze rod
+      ingredients: BREEZE_ROD
+      color: '#85c1e9'
       cookParticles:
-      - '#FF0000/4'
+      - '#85c1e9/4'
+      
+  melon_slice_brew:
+      name: Brewed melon slice
+      ingredients: MELON_SLICE
+      color: '#d20000'
+      cookParticles:
+      - '#d20000/4'
+      
+  glistering_melon_slice_brew:
+      name: Brewed glistering melon slice
+      ingredients: GLISTERING_MELON_SLICE
+      color: '#f4d03f'
+      cookParticles:
+      - '#f4d03f/4'
+      
+  snowball_brew:
+      name: Brewed snowball
+      ingredients: SNOWBALL
+      color: '#ffffff'
+      cookParticles:
+      - '#ffffff/4'
+      
+  carrot_brew:
+      name: Brewed carrot
+      ingredients: CARROT
+      color: '#e67e22'
+      cookParticles:
+      - '#e67e22/4'
+      
+  gunpowder_brew:
+      name: Brewed gunpowder
+      ingredients: GUNPOWDER
+      color: '#566573'
+      cookParticles:
+      - '#566573/4'
+      
+  chorus_fruit_brew:
+      name: Brewed chorus fruit
+      ingredients: CHORUS_FRUIT
+      color: '#9b59b6'
+      cookParticles:
+      - '#9b59b6/4'
       
