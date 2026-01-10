@@ -65,7 +65,7 @@ pukeItem:
 pukeDespawntime: 10
 
 # How much the Player stumbles depending on the amount of alcohol he drank. Can be set to 0 and higher than 100 [100]
-stumblePercent: 0
+stumblePercent: 20
 
 # Display his drunkenness to the player when he drinks a brew or eats a drainItem [true]
 showStatusOnDrink: true
@@ -74,20 +74,20 @@ showStatusOnDrink: true
 drainItems:
 - Bread/50
 - Baked_potato/20
-- COOKED_MUTTON/30
-- COOKED_CHICKEN/30
-- COOKED_BEEF/30
-- COOKED_PORKCHOP/30
-- COOKED+RABBIT/30
-- COOKIE/15
-- DRIED_KELP/15
-- COOKED_COD/30
-- COOKED_SALMON/30
-- Pumpkin_PIE/30
-- SUSPICIOUS_STEW/80
-- BEETROOT_SOUP/80
-- MUSHROOM_STEW/80
-- RABBIT_STEW/80
+- COOKED_MUTTON/15
+- COOKED_CHICKEN/15
+- COOKED_BEEF/15
+- COOKED_PORKCHOP/15
+- COOKED_RABBIT/15
+- COOKIE/10
+- DRIED_KELP/10
+- COOKED_COD/15
+- COOKED_SALMON/15
+- Pumpkin_PIE/20
+- SUSPICIOUS_STEW/40
+- BEETROOT_SOUP/50
+- MUSHROOM_STEW/30
+- RABBIT_STEW/50
 - Milk_Bucket/100
 
 
